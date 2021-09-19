@@ -1,3 +1,3 @@
 ## Join the Conversation!
-<iframe src="https://discord.com/widget?id=889156198123860019&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
-Click "Connect" to join our chat group on Discord.
+<script async src="https://telegram.org/js/telegram-widget.js?15" data-telegram-post="mainandwine/2" data-width="100%"></script>
+Click "Connect" to join our chat group on Telegram.
