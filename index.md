@@ -4,6 +4,7 @@
 <img src="https://mainandwine.eu/assets/img/logo.png" alt="LOGO" width="100%">
 
 ## Events
+
 | Date       | Meetup                                                                                               |
 | ---------- | ---------------------------------------------------------------------------------------------------- |
 | 23.09.2021 | [**Thursday Beer Night at Le Belge Offenbach**](https://www.meetup.com/main-wine/events/280890746/)  |
