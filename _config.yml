@@ -2,3 +2,5 @@ theme: jekyll-theme-slate
 title: Main & Wine Meetup
 description: The socializing group for Offenbach and surroundings
 logo: https://mainandwine.eu/assets/img/logo.png
+plugins: 
+  - jekyll-linkpreview
