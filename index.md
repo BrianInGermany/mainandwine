@@ -11,5 +11,5 @@
 | 18.09.2021 | [Morning Walk to the Fechenheim Nature Preserve](https://www.meetup.com/main-wine/events/280787517/) |
 | 20.08.2021 | [Friday at Hafen 2](https://www.meetup.com/main-wine/events/280152128/)                              |
 | 12.08.2021 | [Bembelboot Apfelwein Thursday](https://www.meetup.com/main-wine/events/280014611/)                  |
-| 29.07.2021 | [Bembelboot Apfelwein Thursday](https://www.meetup.com/main-wine/events/279550226/)                  |
 | 07.08.2021 | [Sunset Skyline Cruise on the Main](https://www.meetup.com/main-wine/events/279887281/)              |
+| 29.07.2021 | [Bembelboot Apfelwein Thursday](https://www.meetup.com/main-wine/events/279550226/)                  |
