@@ -1,5 +1,5 @@
 ## Join the Conversation!
-<script async src="https://telegram.org/js/telegram-widget.js?15" data-telegram-post="mainandwine/2" data-width="100%" data-color="f78e1e" data-dark-color="F0B138"></script>
+<script async src="https://telegram.org/js/telegram-widget.js?15" data-telegram-post="mainandwine/2" data-width="100%"></script>
 
 <img src="https://mainandwine.eu/assets/img/logo.png" alt="LOGO" width="100%">
 
