@@ -15,7 +15,7 @@
 | 29.07.2021 | [Bembelboot Apfelwein Thursday](https://www.meetup.com/main-wine/events/279550226/)                  |
 
 ## Ideas
-- Pancake Breakfast at [The Good Café](https://thegoodcoffee.de/offenbach) near OF-Marktplatz
+- Pancake Breakfast at [The Good Coffee](https://thegoodcoffee.de/offenbach) near OF-Marktplatz
 - Winery Trip to [Weingut Büsser-Paukner](https://www.ae-wein.de/en/) in Gau-Odernheim (60 min. drive)
 - Winery Trip to [Weingut Giegerich](https://weingut-giegerich.de/) in Großwallstadt (30 min. drive)
 - Brewery Tour at [Glaabsbräu](https://glaabsbraeu.de/brauereifuehrung/) in Seligenstadt (20 min. drive/train ride)
