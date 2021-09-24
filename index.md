@@ -20,3 +20,4 @@
 - Winery Trip to [Weingut Giegerich](https://weingut-giegerich.de/) in Großwallstadt (30 min. drive)
 - Brewery Tour at [Glaabsbräu](https://glaabsbraeu.de/brauereifuehrung/) in Seligenstadt (20 min. drive/train ride)
 - Another Boat Ride with [Primus-Linie](https://www.primus-linie.de/de/termine/)
+- Biergarten Visit at [Zur Käsmühle](https://zur-kaesmuehle.de/) in Offenbach
