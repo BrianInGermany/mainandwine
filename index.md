@@ -5,7 +5,7 @@
 
 ## Events
 
-| Date       | Meetup                                                                                               |
+| Date       | Event                                                                                                |
 | ---------- | ---------------------------------------------------------------------------------------------------- |
 | 01.10.2021 | [**Opening Night of Offenbach's New Irish Pub!**](https://www.meetup.com/main-wine/events/281086687/)|
 | 23.09.2021 | [Thursday Beer Night at Le Belge Offenbach](https://www.meetup.com/main-wine/events/280890746/)      |
