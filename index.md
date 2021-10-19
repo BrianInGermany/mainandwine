@@ -7,7 +7,7 @@
 
 | Date       | Event                                                                                                |
 | ---------- | ---------------------------------------------------------------------------------------------------- |
-| 01.10.2021 | [**Opening Night of Offenbach's New Irish Pub!**](https://www.meetup.com/main-wine/events/281086687/)|
+| 01.10.2021 | [Opening Night of Offenbach's New Irish Pub!](https://www.meetup.com/main-wine/events/281086687/)|
 | 23.09.2021 | [Thursday Beer Night at Le Belge Offenbach](https://www.meetup.com/main-wine/events/280890746/)      |
 | 18.09.2021 | [Morning Walk to the Fechenheim Nature Preserve](https://www.meetup.com/main-wine/events/280787517/) |
 | 20.08.2021 | [Friday at Hafen 2](https://www.meetup.com/main-wine/events/280152128/)                              |
