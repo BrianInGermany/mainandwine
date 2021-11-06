@@ -393,14 +393,12 @@ Small Device Styles
 @media screen and (max-width: 992px) {
   img {
     max-width: 100%;
-    overflow-x: hidden;
   }
 }
 
 @media screen and (max-width: 480px) {
   body {
     font-size:14px;
-    overflow-x: hidden;
   }
 
   #downloads {
