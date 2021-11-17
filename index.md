@@ -2,14 +2,12 @@
 <script async src="https://telegram.org/js/telegram-widget.js?15" data-telegram-post="mainandwine/2" data-width="100%"></script>
 <br/>
 <div class="fb-group" data-href="https://www.facebook.com/groups/offenbachenglishspeakers" data-width="100%" data-show-metadata="false"><blockquote cite="https://www.facebook.com/groups/offenbachenglishspeakers" class="fb-xfbml-parse-ignore">Offenbach English Speakers</blockquote></div>
-
 <!-- <img src="https://mainandwine.eu/assets/img/logo.png" alt="LOGO" width="100%"> -->
 
 
 ## Next Event
-### Live Irish-American Folk Music! at Irish House Offenbach
-- 5th December, 2021
-- 19:00
+### 5.12.2021: Live Irish-American Folk Music! at An Sibin Offenbach
+- 7pm
 - An Sibin Irish House  
   Ernst-Griesheimer-Platz 7  
   63071 Offenbach
