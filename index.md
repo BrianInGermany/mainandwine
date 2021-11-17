@@ -1,7 +1,7 @@
 ## Join Us!
-<script async src="https://telegram.org/js/telegram-widget.js?15" data-telegram-post="mainandwine/2" data-width="100%"></script>
+- <script async src="https://telegram.org/js/telegram-widget.js?15" data-telegram-post="mainandwine/2" data-width="100%"></script>
 
-### [Offenbach English Speakers](https://www.facebook.com/groups/offenbachenglishspeakers) on Facebook
+- [Offenbach English Speakers](https://www.facebook.com/groups/offenbachenglishspeakers) on Facebook
 ## Next Event
 ### 5.12.2021: Live Irish-American Folk Music! at An Sibin Offenbach
 - 7pm
