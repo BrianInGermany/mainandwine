@@ -1,11 +1,10 @@
 ## Join Us Online
 <script async src="https://telegram.org/js/telegram-widget.js?15" data-telegram-post="mainandwine/2" data-width="100%"></script>
 
-[**Offenbach English Speakers**](https://www.facebook.com/groups/offenbachenglishspeakers) on Facebook
+- [**Offenbach English Speakers**](https://www.facebook.com/groups/offenbachenglishspeakers) on Facebook
 ## Attend an Event
-### 5.12.2021: Live Irish-American Folk Music! at An Sibin Offenbach
-  - 7pm
-  - An Sibin Irish House  
+### 5.12.2021, 7pm: Live Irish-American Folk Music!
+  - [An Sibin Irish House](https://www.facebook.com/An-Sibin-Irish-pub-Offenbach-106956738438220)  
     Ernst-Griesheimer-Platz 7  
     63071 Offenbach
   - Last time: <br/><video src="https://briankenneth.rocks/assets/images/sessionAnSibin.mp4" autoplay muted loop width="100%"></video>
