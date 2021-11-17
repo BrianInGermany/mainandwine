@@ -1,10 +1,7 @@
-## Join the Conversation!
+## Join Us!
 <script async src="https://telegram.org/js/telegram-widget.js?15" data-telegram-post="mainandwine/2" data-width="100%"></script>
-<br/>
-<div class="fb-group" data-href="https://www.facebook.com/groups/offenbachenglishspeakers" data-width="100%" data-show-metadata="false"><blockquote cite="https://www.facebook.com/groups/offenbachenglishspeakers" class="fb-xfbml-parse-ignore">Offenbach English Speakers</blockquote></div>
-<!-- <img src="https://mainandwine.eu/assets/img/logo.png" alt="LOGO" width="100%"> -->
 
-
+### [Offenbach English Speakers](https://www.facebook.com/groups/offenbachenglishspeakers) on Facebook
 ## Next Event
 ### 5.12.2021: Live Irish-American Folk Music! at An Sibin Offenbach
 - 7pm
