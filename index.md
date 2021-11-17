@@ -6,7 +6,7 @@
 
 ## Or Attend an Event!
 ### Live Irish-American Folk Music
-  - Sunday, 5.12.2021, 7pm
+  - Sunday, 05.12.2021, 7pm
   - [An Sibin Irish House](https://www.facebook.com/An-Sibin-Irish-pub-Offenbach-106956738438220)  
     Ernst-Griesheimer-Platz 7  
     63071 Offenbach
