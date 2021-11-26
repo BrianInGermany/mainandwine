@@ -1,4 +1,5 @@
 ---
+layout: page
 title: Corona Rules for Hessen in English
 description: The new Corona rules for Land Hessen, valid from 25th Nov. 2021
 ---
