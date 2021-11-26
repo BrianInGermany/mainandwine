@@ -8,7 +8,7 @@ description: The new Corona rules for Land Hessen, valid from 25th Nov. 2021
 
 German source: [https://www.hessen.de/sites/hessen.hessen.de/files/2021-11/corona-regeln_in_hessen2511_final3.pdf](https://www.hessen.de/sites/hessen.hessen.de/files/2021-11/corona-regeln_in_hessen2511_final3.pdf)
 
-## Standardized Mask Requirement
+## Unified Mask Requirement
 - Outdoors: mask required if not possible to maintain safety distance
 - Indoors: mask required (medical mask) even when seated. Exception: gastronomy.
   
