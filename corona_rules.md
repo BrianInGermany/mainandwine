@@ -1,4 +1,4 @@
-# Corona Rules in Hessen in English (from 25.11.2021)
+# Corona Rules for Hessen in English (from 25.11.2021)
 
 German Source: [https://www.hessen.de/sites/hessen.hessen.de/files/2021-11/corona-regeln_in_hessen2511_final3.pdf](https://www.hessen.de/sites/hessen.hessen.de/files/2021-11/corona-regeln_in_hessen2511_final3.pdf)
 
