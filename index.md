@@ -42,3 +42,5 @@ description: Stammtisch for Offenbach and surroundings
 - Biergarten Visit at [Zur Käsmühle](https://zur-kaesmuehle.de/) in Offenbach
 
 ## [Corona Rules for Hessen in English](https://mainandwine.eu/corona_rules)
+
+## [Impressum](https://mainandwine.eu/impressum)
