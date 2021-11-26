@@ -54,7 +54,7 @@ German source: [https://www.hessen.de/sites/hessen.hessen.de/files/2021-11/coron
   
 ## Gastronomy
 - Inside: 2G and mask required until seated.
-- Inside and outside: distance and hygience concept required.
+- Inside and outside: distance and hygiene concept required.
   
 ## Clubs / Disco
 - Inside: entry only for vaccinated and recovered people with current test (2G plus), contact tracing and hygiene concept required.
