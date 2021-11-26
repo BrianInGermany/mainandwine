@@ -63,7 +63,7 @@ German source: [https://www.hessen.de/sites/hessen.hessen.de/files/2021-11/coron
   
 ## Hotels and Accomodations
 - 2G required for tourism, otherwise 3G with daily tests.
-- 2G for the use of amenities (dining room, swimming poo, etc.)
+- 2G for the use of amenities (dining room, swimming pool, etc.)
   
 ## Public Transport
 - Regulated by the Bundesinfektionsschutzgesetz (Federal Infection Protection Act)
