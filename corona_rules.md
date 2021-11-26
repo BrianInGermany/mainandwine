@@ -1,6 +1,6 @@
 # Corona Rules for Hessen in English (from 25.11.2021)
 
-German Source: [https://www.hessen.de/sites/hessen.hessen.de/files/2021-11/corona-regeln_in_hessen2511_final3.pdf](https://www.hessen.de/sites/hessen.hessen.de/files/2021-11/corona-regeln_in_hessen2511_final3.pdf)
+German source: [https://www.hessen.de/sites/hessen.hessen.de/files/2021-11/corona-regeln_in_hessen2511_final3.pdf](https://www.hessen.de/sites/hessen.hessen.de/files/2021-11/corona-regeln_in_hessen2511_final3.pdf)
 
 ## Standardized Mask Requirement
 - Outdoors: mask required if not possible to maintain safety distance
