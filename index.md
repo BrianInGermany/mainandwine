@@ -1,4 +1,5 @@
 ---
+layout: default
 title: Main & Wine Meetup
 description: Stammtisch for Offenbach and surroundings
 ---
