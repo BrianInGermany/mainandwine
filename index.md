@@ -1,3 +1,8 @@
+---
+title: Main & Wine Meetup
+description: Stammtisch for Offenbach and surroundings
+---
+
 ## Join Us Online...
 <script async src="https://telegram.org/js/telegram-widget.js?15" data-telegram-post="mainandwine/2" data-width="100%"></script>
 
