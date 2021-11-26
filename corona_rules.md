@@ -15,7 +15,7 @@ German source: [https://www.hessen.de/sites/hessen.hessen.de/files/2021-11/coron
   - Only employees and employers with 3G status may enter the workplace.
   - Unvaccinated people have to arrange for their own tests for every workday, if not voluntarily offered by employer.
   - Employees must be allowed to work from home - unless business reasons make it impossible.
-- 
+  
 ## School
 - In-person classes for all grades. Negative proof required 3x per week.
 - Mask required in school building and when seated.
