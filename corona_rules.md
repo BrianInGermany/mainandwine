@@ -38,7 +38,7 @@ German source: [https://www.hessen.de/sites/hessen.hessen.de/files/2021-11/coron
 - Inside: 2G required
 - Outside: no restrictions
   
-## Events (Theater, Cinema, etc.)(25 or more people)
+## Events (Theater, Cinema, etc.) (25 or more people)
 - Inside: 2G required, even when seated
 - Outside: 3G required starting at 1000 participants
 - 1000 or more participants: event must be approved by the government. Max. 10% of participants may be only tested. Exception: no 3G at carnevals, "Volksfests" or similar events. Local rules, especially for Christmas markets, are possible.
