@@ -13,7 +13,7 @@ German source: [https://www.hessen.de/sites/hessen.hessen.de/files/2021-11/coron
 - Indoors: mask required (medical mask) even when seated. Exception: gastronomy.
   
 ## Private Gatherings
-- No restrictions. It is recommended to follow the distance and hygiene rules. It is recommended to take a test even for vaccinated and recovered people.
+- No restrictions. It is recommended to follow the distance and hygiene rules, and to take a test even for vaccinated and recovered people.
 - If 25 or more people participate, the event rules come into effect.
   
 ## Workplace
