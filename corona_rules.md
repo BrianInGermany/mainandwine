@@ -6,8 +6,7 @@ description: The new Corona rules for Land Hessen, valid from 25th Nov. 2021
 
 # Corona Rules for Hessen in English (25.11.2021)
 
-German source:
--  [https://www.hessen.de/sites/hessen.hessen.de/files/2021-11/corona-regeln_in_hessen2511_final3.pdf](https://www.hessen.de/sites/hessen.hessen.de/files/2021-11/corona-regeln_in_hessen2511_final3.pdf)
+[German source (hessen.de)](https://www.hessen.de/sites/hessen.hessen.de/files/2021-11/corona-regeln_in_hessen2511_final3.pdf)
 
 ## Unified Mask Requirement
 - Outdoors: mask required if not possible to maintain safety distance
