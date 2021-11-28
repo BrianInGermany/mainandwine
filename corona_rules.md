@@ -96,7 +96,7 @@ description: The new Corona rules for Land Hessen, valid from 25th Nov. 2021
 - Entry only for vaccinated and recovered with a current test. 
 - Also permitted are people that cannot be vaccinated for medical reasons (with doctor's approval) and children under 18 years of age, if they have a student test booklet (Schülertestheft) or a current antigen test.   
 - No distance rules, no capacity limit.
-- _Translators note: 2G+ can be voluntarily implemented in some places where 2G is required, in which case the above provisions apply._
+- _Translator's note: 2G+ can be voluntarily implemented in some places where 2G is required, in which case the above provisions apply._
   
 
 ## Rules for Vaccinated and Recovered
