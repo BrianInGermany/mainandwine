@@ -107,12 +107,11 @@ description: The new Corona rules for Land Hessen, valid from 25th Nov. 2021
 
 ## Valid from 25.11.2021
 
----
 
-## Other references
+# Other References
 - [Official commentary on the Corona ordinance of 24.11.](https://www.hessen.de/sites/hessen.hessen.de/files/2021-11/21-11-25-auslegungshinweise_coschuv.pdf)
 - [Overview of current rules from hessen.de](https://www.hessen.de/Handeln/Corona-in-Hessen)
 - [Hessian Corona Ordinance of 24.11.](https://www.hessen.de/sites/hessen.hessen.de/files/2021-11/lf_coschuv_v._24.11.21_stand_25.11.21.pdf)
 - [Corona rule guide from the Hessian hospitality association](https://www.dehoga-hessen.de/branchenthemen/corona-krise/)
 
-## [Home](https://mainandwine.eu)
+# [Home](https://mainandwine.eu)
