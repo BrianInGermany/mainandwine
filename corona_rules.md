@@ -53,6 +53,7 @@ description: The new Corona rules for Land Hessen, valid from 25th Nov. 2021
 - All stores open without square-meter restriction. Mask required.
   
 ## Gastronomy
+- _Translator's note_: in Hessen ([HGastsG §1 paragraph 2](http://www.lexsoft.de/cgi-bin/lexsoft/kfw.cgi?templateID=document&chosenIndex=0421&xid=4883708,2&chosenIndex=0421)), businesses that offer drinks or food for consumption on premises are considered gastronomy (i.e. bars and restaurants)
 - Inside: 2G and mask required until seated.
 - Inside and outside: distance and hygiene concept required.
   
@@ -95,6 +96,7 @@ description: The new Corona rules for Land Hessen, valid from 25th Nov. 2021
 - Entry only for vaccinated and recovered with a current test. 
 - Also permitted are people that cannot be vaccinated for medical reasons (with doctor's approval) and children under 18 years of age, if they have a student test booklet (Schülertestheft) or a current antigen test.   
 - No distance rules, no capacity limit.
+- _Translators note_: 2G+ can be voluntarily implemented in some places where 2G is required, in which case the above provisions apply 
   
 
 ## Rules for Vaccinated and Recovered
