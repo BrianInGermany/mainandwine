@@ -53,7 +53,7 @@ description: The new Corona rules for Land Hessen, valid from 25th Nov. 2021
 - All stores open without square-meter restriction. Mask required.
   
 ## Gastronomy
-- _Translator's note: in Hessen ([HGastsG §1 paragraph 2](http://www.lexsoft.de/cgi-bin/lexsoft/kfw.cgi?templateID=document&chosenIndex=0421&xid=4883708,2&chosenIndex=0421)), businesses that offer drinks or food for consumption on premises are considered gastronomy (i.e. bars and restaurants)_
+- _Translator's note: in Hessen ([HGastG §1 paragraph 2](http://www.lexsoft.de/cgi-bin/lexsoft/kfw.cgi?templateID=document&chosenIndex=0421&xid=4883708,2&chosenIndex=0421)), businesses that offer drinks or food for consumption on premises are considered gastronomy (i.e. bars and restaurants)_
 - Inside: 2G and mask required until seated.
 - Inside and outside: distance and hygiene concept required.
   
