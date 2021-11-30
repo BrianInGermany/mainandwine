@@ -24,7 +24,7 @@ description: Summary of Volker Bouffier's press conference from 30 Nov. 2021
       - Alcohol ban in public
       - Closing of cultural institutions
 
-## New Ordninance for Hessen
+## New Ordinance for Hessen
 - Gatherings
   - maximum two households if unvaccinated
   - no restrictions for at home (only recommendation)
