@@ -2,6 +2,7 @@
 layout: page
 title: Corona Rules for Hessen in English
 description: The new Corona rules for Land Hessen, valid from 25th Nov. 2021
+url: https://mainandwine.eu/corona_rules
 ---
 
 # Corona Rules for Hessen in English (25.11.2021)

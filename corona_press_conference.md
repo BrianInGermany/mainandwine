@@ -2,6 +2,7 @@
 layout: page
 title: New Corona Rules for Hessen in English (30 Nov. 2021) 
 description: Summary of Volker Bouffier's press conference from 30 Nov. 2021
+url: https://mainandwine.eu/corona_press_conference
 ---
 
 # Press Conference Volker Bouffier of 30 Nov. 2021 at 5pm
