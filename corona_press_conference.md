@@ -52,4 +52,8 @@ description: Summary of Volker Bouffier's press conference from 30 Nov. 2021
 - Christmas Markets
   - can't be restricted or closed until §28a is passed by Landtag
   - closure may not be necessary, restrictions (for example opening hours) possible.
+  
+
+# [Home](https://mainandwine.eu)
+
 
