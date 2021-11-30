@@ -4,7 +4,7 @@ title: New Corona Rules for Hessen in English (30 Nov. 2021)
 description: Summary of Volker Bouffier's press conference from 30 Nov. 2021
 ---
 
-# Press Conference Volker Bouffier 2021-11-30T17:00
+# Press Conference Volker Bouffier of 30 Nov. 2021 at 5pm
 - Hessen's Corona cabinet met today, and, in a separate meeting, state and federal leaders.
 - Medical staff have been "pushed to the limit"
 - Scientists demand stricter measures (National Instite of Science, Leopoldina)
@@ -23,12 +23,13 @@ description: Summary of Volker Bouffier's press conference from 30 Nov. 2021
     - It would make the following possible
       - Alcohol ban in public
       - Closing of cultural institutions
+
 ## New Ordninance for Hessen
 - Gatherings
   - maximum two households if unvaccinated
   - no restrictions for at home (only recommendation)
 - Retail
- - 2G, except at stores for "basic daily needs"
+  - 2G, except at stores for "basic daily needs"
 - Option for laxer rules with 2G/2G+
   - abolished, now you always need a mask until seated.
 - School
@@ -53,6 +54,9 @@ description: Summary of Volker Bouffier's press conference from 30 Nov. 2021
   - can't be restricted or closed until §28a is passed by Landtag
   - closure may not be necessary, restrictions (for example opening hours) possible.
   
+  # Translator's Note:
+  This is my own translation and summary after listening to the press conference. All liability is excluded.
+
 
 # [Home](https://mainandwine.eu)
 
