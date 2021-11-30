@@ -1,6 +1,6 @@
 ---
 layout: page
-title: New Corona Rules in Hessen in English (30 Nov. 2021) 
+title: New Corona Rules for Hessen in English (30 Nov. 2021) 
 description: Summary of Volker Bouffier's press conference from 30 Nov. 2021
 ---
 
