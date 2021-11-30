@@ -13,7 +13,7 @@ description: Summary of Volker Bouffier's press conference from 30 Nov. 2021
 - Unvaccinated: drastic restrictions
   - "They are the main cause of the infection situation"
 - Vaccinations:
-  - The new federal law could allow dentists, etc. to give vaccinations.
+  - A new federal law could allow dentists, etc. to give vaccinations.
 - Conference of Ministerpresidents this Thursday, 2.12.2021
   - there will then be new federal rules, too, but this takes a while.
   - because it must pass the Bundesrat, the council of the Länder
