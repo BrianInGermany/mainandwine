@@ -56,8 +56,8 @@ url: https://mainandwine.eu/corona_press_conference
   - can't be restricted or closed until §28a is passed by Landtag
   - closure may not be necessary, restrictions (for example opening hours) possible.
   
-  # Translator's Note:
-  This is my own translation and summary after listening to the press conference. All liability is excluded.
+# Translator's Note:
+This is my own translation and summary after listening to the press conference. All liability is excluded.
 
 
 # [Rules from 25.11.2021](https://mainandwine.eu/corona_rules)
