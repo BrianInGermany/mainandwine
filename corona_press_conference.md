@@ -6,13 +6,14 @@ url: https://mainandwine.eu/corona_press_conference
 ---
 
 # Press Conference Volker Bouffier of 30 Nov. 2021 at 5pm
+- [Link to German recording](https://www.youtube.com/watch?v=vx3_62ftGfY)
 - Hessen's Corona cabinet met today, and, in a separate meeting, state and federal leaders.
 - Medical staff have been "pushed to the limit"
-- Scientists demand stricter measures (National Instite of Science, Leopoldina)
+- Scientists demand stricter measures (National Institute of Science, Leopoldina)
 - We must reduce contacts
   
 ## Summary of New Restrictions
-- Unvaccinated: drastic restrictions
+- Unvaccinated: "drastic restrictions"
   - "They are the main cause of the infection situation"
 - Vaccinations:
   - A new federal law could allow dentists, etc. to give vaccinations.
@@ -35,12 +36,12 @@ url: https://mainandwine.eu/corona_press_conference
 - Option for laxer rules with 2G/2G+
   - abolished, now you always need a mask until seated.
 - School
-  - extra weekly test
+  - a test must be offered by the school at least once a week
 - Events
   - Inside
     - No rules up to 10 people
     - from 11-100 people 2G is required
-    - from 101-250 people: 2G und hygience concept
+    - from 101-250 people: 2G und distancing concept
     - over 250: special permit required
   - Outdoors
     - up to 10: no rules
@@ -55,7 +56,22 @@ url: https://mainandwine.eu/corona_press_conference
 - Christmas Markets
   - can't be restricted or closed until §28a is passed by Landtag
   - closure may not be necessary, restrictions (for example opening hours) possible.
+
+## Valid from Sunday, 5 Dec. 2021
+
+## Translator's note on dance venues, clubs and discos
+- According to §24 of the [new Hessian Corona Ordinance](https://www.hessen.de/sites/hessen.hessen.de/files/2021-11/LF%20CoSchuV%20%20(Stand%2005.12.21).pdf), dance venues, clubs and discos can open:
+  - Outdoors
+    - 2G
+    - Contact tracing
+    - Distancing and hygiene concept
+  - Indoors
+    - 2G+
   
+# Other References
+- [Hessian Corona Ordinance valid from 5.12.2021](https://www.hessen.de/sites/hessen.hessen.de/files/2021-11/LF%20CoSchuV%20%20(Stand%2005.12.21).pdf)
+- [Official website of Hessian Corona rules](https://www.hessen.de/Handeln/Corona-in-Hessen)
+
 # Translator's Note:
 This is my own translation and summary after listening to the press conference. All liability is excluded.
 
