@@ -115,5 +115,5 @@ url: https://mainandwine.eu/corona_rules
 - [Hessian Corona Ordinance of 24.11.](https://www.hessen.de/sites/hessen.hessen.de/files/2021-11/lf_coschuv_v._24.11.21_stand_25.11.21.pdf)
 - [Corona rule guide from the Hessian hospitality association](https://www.dehoga-hessen.de/branchenthemen/corona-krise/)
 
-# [Update from 30.11.2021](https://mainandwine.eu/corona_press_conference)
+# [Hessen Corona Rule Index](https://mainandwine.eu/corona_index)
 # [Home](https://mainandwine.eu)

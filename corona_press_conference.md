@@ -76,7 +76,7 @@ url: https://mainandwine.eu/corona_press_conference
 This is my own translation and summary after listening to the press conference. All liability is excluded.
 
 
-# [Rules from 25.11.2021](https://mainandwine.eu/corona_rules)
+# [Hessen Corona Rule Index](https://mainandwine.eu/corona_index)
 # [Home](https://mainandwine.eu)
 
 
