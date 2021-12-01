@@ -5,11 +5,11 @@ description: Index of current Corona rules for Hessen translated from official G
 url: https://mainandwine.eu/corona_index
 --- 
 
-# Hessen Corona Rule Index
+# Corona Rule Index
+## [Draft: Federal Rules from 1 Dec. 2021](https://mainandwine/ministerpresident_conference_2021-12-02)
+## [Hessen Rules from 5 Dec. 2021](https://mainandwine.eu/corona_press_conference)
+## [Hessen Rules from 25 Nov. 2021](https://mainandwine.eu/corona_rules)
 
-## [Rules from 25 Nov. 2021](https://mainandwine.eu/corona_rules)
-
-## [Rules from 5 Dec. 2021](https://mainandwine.eu/corona_press_conference)
 
 # [Home](https://mainandwine.eu)
 
