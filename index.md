@@ -41,6 +41,6 @@ description: Stammtisch for Offenbach and surroundings
 - Another Boat Ride with [Primus-Linie](https://www.primus-linie.de/de/termine/)
 - Biergarten Visit at [Zur Käsmühle](https://zur-kaesmuehle.de/) in Offenbach
 
-## [Current Corona Rules for Hessen in English](https://mainandwine.eu/corona_index)
+## [Corona Rules for Hessen in English](https://mainandwine.eu/corona_index)
 
 ## [Impressum](https://mainandwine.eu/impressum)
