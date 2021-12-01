@@ -2,7 +2,7 @@
 layout: page
 title: Draft of New Federal Corona Rules (2 Dec. 2021)
 description: Acting chancellor Merkel and the ministerpresidents have published a draft of the new national restrictions to be finalized Thursday, 2 Dec. 2021.
-url: https://mainandwine.eu/ministerpresident_conference_2021-12-02
+url: https://mainandwine.eu/ministerpresident_conference
 --- 
 
 # Draft of New Federal Corona Rules (2 Dec. 2021)
