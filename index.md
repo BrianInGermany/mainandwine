@@ -33,6 +33,6 @@ description: News and Do's in Offenbach and Surroundings
 
 
 ## [News for Offenbach and Surroundings](https://mainandwine.eu/news)
-## [Corona Rules for Hessen in English](https://mainandwine.eu/corona_index)
+## [Corona Rules for Hessen](https://mainandwine.eu/corona_index)
 
 ## [Impressum](https://mainandwine.eu/impressum)
