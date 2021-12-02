@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Main & Wine
-description: News and Do's for Offenbach and Surroundings
+description: News and Do's in Offenbach and Surroundings
 ---
 
 ## Join Us Online...
