@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Main & Wine Meetup
-description: Stammtisch for Offenbach and surroundings
+title: Main & Wine
+description: News and Do's for Offenbach and Surroundings!
 ---
 
 ## Join Us Online...
@@ -9,20 +9,18 @@ description: Stammtisch for Offenbach and surroundings
 
 - [**Offenbach English Speakers**](https://www.facebook.com/groups/offenbachenglishspeakers) on Facebook
 
-
 ## Or Attend an Event!
 ### [Live Irish-American Folk Music](https://www.meetup.com/main-wine/events/282141280)  
   - Sunday, 05.12.2021, 7pm
   - [An Sibin Irish House](https://www.facebook.com/An-Sibin-Irish-pub-Offenbach-106956738438220)  
     Ernst-Griesheimer-Platz 7  
     63071 Offenbach
-  - Last time: <br/><video src="https://briankenneth.rocks/assets/images/sessionAnSibin.mp4" autoplay muted loop width="100%"></video>
-
 
 ## Past Events
 
 | Date       | Event                                                                                                |
 | ---------- | ---------------------------------------------------------------------------------------------------- |
+| 02.12.2021 | Christmas Market Visit in Offenbach                                                                  |
 | 14.11.2021 | [Live Irish-American Folk Music! at Irish House Offenbach](https://www.meetup.com/de-DE/main-wine/events/281917680)                                                        |
 | 06.11.2021 | [Saturday Drinks at Irish House Offenbach](https://www.meetup.com/de-DE/main-wine/events/281908123/)                                                         |
 | 01.10.2021 | [Opening Night of Offenbach's New Irish Pub!](https://www.meetup.com/main-wine/events/281086687/)                                                         |
@@ -33,14 +31,8 @@ description: Stammtisch for Offenbach and surroundings
 | 07.08.2021 | [Sunset Skyline Cruise on the Main](https://www.meetup.com/main-wine/events/279887281/)              |
 | 29.07.2021 | [Bembelboot Apfelwein Thursday](https://www.meetup.com/main-wine/events/279550226/)                  |
 
-## Ideas
-- Pancake Breakfast at [The Good Coffee](https://thegoodcoffee.de/offenbach) near OF-Marktplatz
-- Winery Trip to [Weingut Büsser-Paukner](https://www.ae-wein.de/en/) in Gau-Odernheim (very nice English-speaking vintner couple, 60 min. drive)
-- Winery Trip to [Weingut Giegerich](https://weingut-giegerich.de/) in Großwallstadt (30 min. drive)
-- Brewery Tour at [Glaabsbräu](https://glaabsbraeu.de/brauereifuehrung/) in Seligenstadt (20 min. drive/train ride)
-- Another Boat Ride with [Primus-Linie](https://www.primus-linie.de/de/termine/)
-- Biergarten Visit at [Zur Käsmühle](https://zur-kaesmuehle.de/) in Offenbach
 
+## [News for Offenbach and Surroundings](https://mainandwine.eu/news)
 ## [Corona Rules for Hessen in English](https://mainandwine.eu/corona_index)
 
 ## [Impressum](https://mainandwine.eu/impressum)
