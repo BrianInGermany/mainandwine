@@ -10,6 +10,7 @@ url: https://mainandwine.eu/corona_index
 ## [Hessen Rules from 5 Dec. 2021](https://mainandwine.eu/corona_press_conference)
 ## [Hessen Rules from 25 Nov. 2021](https://mainandwine.eu/corona_rules)
 
+# [Official English Corona Info from Hessen](https://soziales.hessen.de/Corona/Fremdsprachliche-Informationen/Informationen-auf-Englisch-Information-in-English)
 
 # [Home](https://mainandwine.eu)
 
