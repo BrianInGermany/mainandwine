@@ -34,9 +34,9 @@ url: https://mainandwine.eu/ministerpresident_conference_2021-12-02
 
 # Other References
 - [Neue Corona-Maßnahmen am Horizont](https://www.tagesschau.de/inland/entwurf-bund-laender-corona-101.html), Tagessschau
+- [Results of Conference (Süddeutsche Zeitung)](https://www.sueddeutsche.de/politik/corona-massnahmen-mpk-1.5478421)
+
   
 
 # [Hessen Corona Rule Index](https://mainandwine.eu/corona_index)
 # [Home](https://mainandwine.eu)
-
-
