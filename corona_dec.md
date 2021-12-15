@@ -18,7 +18,7 @@ url: https://mainandwine.eu/corona_dec
   - In nursing homes and hospitals
   
 ## Contact Restrictions
-- The unnvaccinated may only meet in public with their own household and two people of another household, independent of these people's vaccination or recovery status (previously vaccinated and recovered did not count)
+- The unnvaccinated may only meet in public with their own household and two people of another household, independent of these people's vaccination or recovery status (previously, vaccinated and recovered did not count)
 - Exception:
   - Children under 18
   - Medical reasons not to vaccinate ("ärztliches Attest")
