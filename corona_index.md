@@ -6,7 +6,7 @@ url: https://mainandwine.eu/corona_index
 --- 
 
 # Corona Rule Index
-## [New Hessen Rules from 16 Dec. 2021 (German Ordinance)](https://www.hessen.de/sites/hessen.hessen.de/files/2021-12/lf_coschuv_stand_16.12.21.pdf)
+## [New Hessen Rules from 16 Dec. 2021](https://mainandwine.de/corona_2021-12-16)
 ## [Draft: Federal Rules from 1 Dec. 2021](https://mainandwine.eu/ministerpresident_conference_2021-12-02)
 ## [Hessen Rules from 5 Dec. 2021](https://mainandwine.eu/corona_press_conference)
 ## [Hessen Rules from 25 Nov. 2021](https://mainandwine.eu/corona_rules)

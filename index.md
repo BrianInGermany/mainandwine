@@ -10,16 +10,17 @@ description: News and Do's in Offenbach and Surroundings
 - [**Offenbach English Speakers**](https://www.facebook.com/groups/offenbachenglishspeakers) on Facebook
 
 ## Or Attend an Event!
-### [Live Irish-American Folk Music](https://www.meetup.com/main-wine/events/282141280)  
-  - Sunday, 05.12.2021, 7pm
-  - [An Sibin Irish House](https://www.facebook.com/An-Sibin-Irish-pub-Offenbach-106956738438220)  
-    Ernst-Griesheimer-Platz 7  
-    63071 Offenbach
+### [Just for Fun Billiards Tournament!](https://www.meetup.com/main-wine/events/282222569)  
+  - Friday, 17.12.2021, 8pm
+  - [Traffic Billiards Offenbach](https://www.facebook.com/BarCafeBillardTRAFFIC/)  
+    Ziegelstr. 8
+    63065 Offenbach
 
 ## Past Events
 
 | Date       | Event                                                                                                |
 | ---------- | ---------------------------------------------------------------------------------------------------- |
+| 05.12.2021 | [Live Irish-American Folk Music](https://www.meetup.com/main-wine/events/282141280)                  |
 | 02.12.2021 | Christmas Market Visit in Offenbach                                                                  |
 | 14.11.2021 | [Live Irish-American Folk Music! at Irish House Offenbach](https://www.meetup.com/de-DE/main-wine/events/281917680)                                                        |
 | 06.11.2021 | [Saturday Drinks at Irish House Offenbach](https://www.meetup.com/de-DE/main-wine/events/281908123/)                                                         |
