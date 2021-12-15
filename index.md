@@ -13,7 +13,7 @@ description: News and Do's in Offenbach and Surroundings
 ### [Just for Fun Billiards Tournament!](https://www.meetup.com/main-wine/events/282222569)  
   - Friday, 17.12.2021, 8pm
   - [Traffic Billiards Offenbach](https://www.facebook.com/BarCafeBillardTRAFFIC/)  
-    Ziegelstr. 8
+    Ziegelstr. 8  
     63065 Offenbach
 
 ## Past Events
