@@ -2,7 +2,7 @@
 layout: page
 title: New Hessen Corona Rules from 16 Dec. 2021
 description: Rules from the New Corona Ordinance Valid from 16 Dec. to 13 Jan.
-url: https://mainandwine.eu/corona_2021-12-16
+url: https://mainandwine.eu/corona_dec
 --- 
 
 # New Corona Rules in Hessen Starting 16 Dec. 2021
