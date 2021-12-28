@@ -7,7 +7,8 @@ url: https://mainandwine.eu/corona_dec28
 
 # Corona Rules in Hessen 28 Dec. 2021
 - *These are the non-hotspot Corona rules for Hessen. [Different rules](https://www.hessen.de/sites/hessen.hessen.de/files/2021-12/hotspot_hessen_2181221_v3.pdf) apply for hotspots.* 
-  
+
+
 ## Sources
 - [German Ordinance](https://www.hessen.de/sites/hessen.hessen.de/files/2021-12/21-12-28-auslegungshinweise_coschuv.pdf)
 - [PDF Cheatsheet from Hessen.de](https://www.hessen.de/sites/hessen.hessen.de/files/2021-12/silvestercorona-regeln_hessen_281221_v2.pdf)
