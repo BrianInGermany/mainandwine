@@ -88,7 +88,7 @@ url: https://mainandwine.eu/corona_dec28
 - Running such a venue as gastronomy is allowed.
 
 ## Hotels and Accomodations
-- 2G required for tourist stays, otherwise 2G with daily tests
+- 2G required for tourist stays, otherwise 3G with daily tests
 - 2G for use of amenities like pools, dining room, etc.
 
 ## Public Transport
