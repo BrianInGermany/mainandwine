@@ -77,7 +77,7 @@ url: https://mainandwine.eu/corona_dec28
 - Mask required
 
 ## Gastronomy
-- **Translator's note: In Hessen, bars are generally considered gastronomy ("Gaststätte").**
+- *Translator's note: In Hessen, bars are generally considered gastronomy ("Gaststätte").*
 - Indoors
   - 2G required and mask until seated
 - Indoor and outdoor
