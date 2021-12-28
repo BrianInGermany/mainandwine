@@ -84,7 +84,7 @@ url: https://mainandwine.eu/corona_dec28
   - distance and hygiene concept required 
 
 ## Clubs and Discos
-- Dance venues, clubs and discos are closed depending on the indidence value nationwide. 
+- Dance venues, clubs and discos are closed depending on the incidence value nationwide. 
 - Running such a venue as gastronomy is allowed.
 
 ## Hotels and Accomodations
