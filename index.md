@@ -15,6 +15,9 @@ description: News and Do's in Offenbach and Surroundings
   - [An Sibin Irish House Offenbach](https://www.facebook.com/An-Sibin-Irish-pub-Offenbach-106956738438220/)  
     Ernst-Griesheimer-Platz 7 
     63071 Offenbach am Main
+  <!-- - Preview: 
+  <video src="https://briankenneth.rocks/assets/images/sessionAnSibin.mp4" autoplay muted loop width="100%"> -->
+
 
 ## Past Events
 
