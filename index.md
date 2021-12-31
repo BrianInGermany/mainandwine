@@ -40,4 +40,4 @@ description: News and Do's in Offenbach and Surroundings
 ## [Impressum](https://mainandwine.eu/impressum)
 
 ---
-Photo credit [Simon Malz](https://simonmalz.com)
+Photo credit [Simon Malz](https://simonmalz.com) under [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/)
