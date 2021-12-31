@@ -297,12 +297,16 @@ Full-Width Styles
 
 #header_wrap {
 //   background: #212121;
-  background: #f78e1e;
-  background: -moz-linear-gradient(top, #373737, #f78e1e);
-  background: -webkit-linear-gradient(top, #373737, #f78e1e);
-  background: -ms-linear-gradient(top, #373737, #f78e1e);
-  background: -o-linear-gradient(top, #373737, #f78e1e);
-  background: linear-gradient(to top, #373737, #f78e1e);
+  // background: #f78e1e;
+  // background: -moz-linear-gradient(top, #373737, #f78e1e);
+  // background: -webkit-linear-gradient(top, #373737, #f78e1e);
+  // background: -ms-linear-gradient(top, #373737, #f78e1e);
+  // background: -o-linear-gradient(top, #373737, #f78e1e);
+  // background: linear-gradient(to top, #373737, #f78e1e);
+  height: 100px;
+  width: 100%;
+  background: url('assets/img/streichholzkarlche.jpg');
+
 }
 
 #header_wrap .inner {
@@ -376,11 +380,11 @@ Full-Width Styles
 
 #footer_wrap {
   background: #212121;
-  background: -moz-linear-gradient(top, #f78e1e, #373737);
-  background: -webkit-linear-gradient(top, #f78e1e, #373737);
-  background: -ms-linear-gradient(top, #f78e1e, #373737);
-  background: -o-linear-gradient(top, #f78e1e, #373737);
-  background: linear-gradient(to top, #f78e1e, #373737);
+  background: -moz-linear-gradient(top, #797571, #373737);
+  background: -webkit-linear-gradient(top, #797571, #373737);
+  background: -ms-linear-gradient(top, #797571, #373737);
+  background: -o-linear-gradient(top, #797571, #373737);
+  background: linear-gradient(to top, #797571, #373737);
   
 }
 
