@@ -1,7 +1,7 @@
 ---
 layout: page
 title: News for Offenbach and Surroundings
-description: English-language Updates for the Offenbach Area
+description: English-Language Updates for the Offenbach Area
 url: https://mainandwine.eu/news
 ---
 
