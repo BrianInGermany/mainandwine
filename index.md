@@ -39,3 +39,6 @@ description: News and Do's in Offenbach and Surroundings
 ## [Corona Rules for Hessen](https://mainandwine.eu/corona_index)
 
 ## [Impressum](https://mainandwine.eu/impressum)
+
+---
+Photo credit [Simon Malz](https://simonmalz.com)
