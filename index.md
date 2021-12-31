@@ -20,6 +20,8 @@ description: News and Do's in Offenbach and Surroundings
 
 | Date       | Event                                                                                                |
 | ---------- | ---------------------------------------------------------------------------------------------------- |
+| 16.12.2021 | English Lunchbreak in Offenbach                                                                      |
+| 09.12.2021 | English Lunchbreak in Offenbach                                                                      |
 | 05.12.2021 | [Live Irish-American Folk Music](https://www.meetup.com/main-wine/events/282141280)                  |
 | 02.12.2021 | Christmas Market Visit in Offenbach                                                                  |
 | 14.11.2021 | [Live Irish-American Folk Music! at Irish House Offenbach](https://www.meetup.com/de-DE/main-wine/events/281917680)                                                        |
