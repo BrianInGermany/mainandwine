@@ -14,7 +14,7 @@ description: News and Do's in Offenbach and Surroundings
   - [Don Pedro's Offenbach](https://www.facebook.com/donpedroscoffee/)
   - Frankfurter Str. 47  
     63065 Offenbach am Main
-  - Please RSVP (10 person max.)
+  - Please RSVP via [Facebook]((https://www.facebook.com/groups/offenbachenglishspeakers) or [Telegram](https://t.me/mainandwine) (10 person max.)
 
 ## [Events](https://mainandwine.eu/events)
 
