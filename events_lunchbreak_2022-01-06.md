@@ -1,6 +1,6 @@
 ---
 layout: page
-title: English Lunchbreak in Offenbach!
+title: "English Lunchbreak: 6 January 2022!"
 description: Join us for a fun lunchbreak at Don Pedro's Café in Offenbach
 url: https://mainandwine.eu/events_lunchbreak_2022-01-06
 socialpreview: /assets/img/don_pedros_tables.jpg
