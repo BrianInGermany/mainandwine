@@ -6,7 +6,7 @@ url: https://mainandwine.eu/events_lunchbreak_2022-01-06
 logo: https://mainandwine.eu/assets/img/don_pedros_tables.jpg
 ---
 
-# English Lunchbreak @ [Don Pedro's Offenbach](https://www.facebook.com/donpedroscoffee/)
+# English Lunchbreak @ [Don Pedro's](https://www.facebook.com/donpedroscoffee/)
 - __Thursday, 6 January at 12:30pm__
 - __Frankfurter Str. 47__  
   __63065 Offenbach am Main__
