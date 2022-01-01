@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Events in Offenbach and Surroundings
+title: Events in Offenbach
 description: Social Events with Main & Wine Offenbach
 url: https://mainandwine.eu/events
 ---
@@ -10,7 +10,7 @@ url: https://mainandwine.eu/events
 | Date       | Event                                                                                                |
 | ---------- | ---------------------------------------------------------------------------------------------------- |
 | ??.01.2022 | Live Irish-American Folk Music at An Sibin Offenbach                                                 |      
-| 06.01.2022 | [English Lunchbreak @ Don Pedros in Offenbach](https://mainandeine.eu/events_lunchbreak_2022-01-06)  |      
+| 06.01.2022 | [English Lunchbreak @ Don Pedros in Offenbach](https://mainandwine.eu/events_lunchbreak_2022-01-06)  |      
 | 16.12.2021 | English Lunchbreak @ Don Pedros in Offenbach                                                         |
 | 09.12.2021 | English Lunchbreak  @ L'Afrique in Offenbach                                                         |
 | 05.12.2021 | [Live Irish-American Folk Music](https://www.meetup.com/main-wine/events/282141280)                  |

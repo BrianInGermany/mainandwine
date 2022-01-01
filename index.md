@@ -16,9 +16,8 @@ description: News and Do's in Offenbach and Surroundings
     63065 Offenbach am Main
   - Please RSVP via [Facebook]((https://www.facebook.com/groups/offenbachenglishspeakers) or [Telegram](https://t.me/mainandwine) (10 person max.)
 
-## [Events](https://mainandwine.eu/events)
+## [Events List](https://mainandwine.eu/events)
 
-## [News for Offenbach and Surroundings](https://mainandwine.eu/news)
-## [Corona Rules for Hessen](https://mainandwine.eu/corona_index)
+## [News for Offenbach](https://mainandwine.eu/news)
 
 ## [Impressum](https://mainandwine.eu/impressum)
