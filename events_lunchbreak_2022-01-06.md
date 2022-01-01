@@ -1,0 +1,17 @@
+---
+layout: page
+title: English Lunchbreak in Offenbach!
+description: Join us for a fun lunchbreak at Don Pedro's Café in Offenbach
+url: https://mainandwine.eu/events_lunchbreak_2022-01-06
+socialpreview: /assets/img/don_pedros_tables.jpg
+---
+
+# English Lunchbreak @ [Don Pedro's Offenbach](https://www.facebook.com/donpedroscoffee/)
+- Thursday, 6 January at 12:30pm
+- Frankfurter Str. 47  
+  63065 Offenbach am Main
+- Don Pedro's has a nice selection of vegetarian soups for lunch, as well as a full coffee bar. The Galão coffee is particularly worth trying!
+- We will meet in the back at these tables:  
+<img src="/assets/img/don_pedros_tables.jpg" alt="don pedros" width="50%">
+
+## Please RSVP via [Facebook](https://www.facebook.com/events/636608984055708) or [Telegram](https://t.me/mainandwine)
