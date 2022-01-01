@@ -15,3 +15,4 @@ socialpreview: /assets/img/don_pedros_tables.jpg
 <img src="/assets/img/don_pedros_tables.jpg" alt="don pedros" width="50%">
 
 ## Please RSVP via [Facebook](https://www.facebook.com/events/636608984055708) or [Telegram](https://t.me/mainandwine)
+- Note there is a 10 person maximum.
