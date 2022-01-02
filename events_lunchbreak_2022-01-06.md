@@ -11,7 +11,7 @@ logo: https://mainandwine.eu/assets/img/don_pedros_tables.jpg
 - __Frankfurter Str. 47__  
   __63065 Offenbach am Main__
 - Don Pedro's has a nice selection of vegetarian soups for lunch, as well as a full coffee bar. The Galão coffee is particularly worth trying!
-- We will meet in the back at these tables:  
+- We will meet in the back at these tables for a quick lunchbreak:
 <img src="/assets/img/don_pedros_tables.jpg" alt="don pedros" width="100%">
 
 ## Please RSVP via [Facebook](https://www.facebook.com/groups/offenbachenglishspeakers/) or [Telegram](https://t.me/mainandwine)
