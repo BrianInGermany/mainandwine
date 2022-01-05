@@ -9,5 +9,3 @@ url: https://mainandwine.eu/news
 
 ## [Offenbach Update: 30 Dec. 2021](https://mainandwine.eu/news_2021-12-30)
 ## [Hessen Corona Rules](https://mainandwine.eu/corona_index)
-
-# [Home](https://mainandwine.eu)

@@ -77,6 +77,4 @@ This is my own translation and summary after listening to the press conference. 
 
 
 # [Hessen Corona Rule Index](https://mainandwine.eu/corona_index)
-# [Home](https://mainandwine.eu)
-
 

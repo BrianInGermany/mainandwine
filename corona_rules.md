@@ -116,4 +116,3 @@ url: https://mainandwine.eu/corona_rules
 - [Corona rule guide from the Hessian hospitality association](https://www.dehoga-hessen.de/branchenthemen/corona-krise/)
 
 # [Hessen Corona Rule Index](https://mainandwine.eu/corona_index)
-# [Home](https://mainandwine.eu)

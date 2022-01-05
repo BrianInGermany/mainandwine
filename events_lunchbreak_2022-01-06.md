@@ -17,4 +17,3 @@ logo: https://mainandwine.eu/assets/img/don_pedros_tables.jpg
 ## Please RSVP via [Facebook](https://www.facebook.com/groups/offenbachenglishspeakers/) or [Telegram](https://t.me/mainandwine)
 - Note there is a 10 person maximum.  
 
-# [Home](https://mainandwine.eu)

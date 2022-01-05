@@ -39,4 +39,3 @@ url: https://mainandwine.eu/ministerpresident_conference_2021-12-02
   
 
 # [Hessen Corona Rule Index](https://mainandwine.eu/corona_index)
-# [Home](https://mainandwine.eu)

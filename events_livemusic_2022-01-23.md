@@ -16,5 +16,3 @@ logo: https://mainandwine.eu/assets/img/pubOF.png
 <video src="https://briankenneth.rocks/assets/images/sessionAnSibin.mp4" autoplay muted loop controls width="100%">
 
 ## Please RSVP via [Facebook](https://www.facebook.com/events/3126044687718092), [Meetup.com](https://www.meetup.com/main-wine/events/283023812/) or [Telegram](https://t.me/mainandwine)
-
-# [Home](https://mainandwine.eu)
