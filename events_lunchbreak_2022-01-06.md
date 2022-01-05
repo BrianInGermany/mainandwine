@@ -1,6 +1,6 @@
 ---
 layout: page
-title:"06.01.22: English Lunchbreak!"
+title: "06.01.22: English Lunchbreak!"
 description: Join us for a fun lunchbreak in Offenbach this Thursday, 6 January 2022 at 12:30pm.
 url: https://mainandwine.eu/events_lunchbreak_2022-01-06
 logo: https://mainandwine.eu/assets/img/don_pedros_tables.jpg
