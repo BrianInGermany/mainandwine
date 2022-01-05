@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Live Irish-American Folk at An Sibin!
-description: Join us for an evening of live folk and Bluegrass music in the beautiful Alter Schlachthof
+title: "23.01.22: Live Folk Music at An Sibin!"
+description: Join us for an evening of live folk and Bluegrass music in the beautiful Alter Schlachthof in Offenbach.
 url: https://mainandwine.eu/events_livemusic_2022-01-23
 logo: https://mainandwine.eu/assets/img/pubOF.png
 ---
