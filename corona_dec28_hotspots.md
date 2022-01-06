@@ -9,16 +9,22 @@ url: https://mainandwine.eu/corona_dec2_hotspots
 - These are the additional hotspot Corona rules for Hessen. [Source](https://www.hessen.de/sites/hessen.hessen.de/files/2021-12/hotspot_hessen_2181221_v3.pdf)
 
 ## Validity
-- After three days in a row above 350 incidence rate, these hotspot rukes apply.
+- After three days in a row above 350 incidence rate, these hotspot rules apply.
+
 ## Alcohol Bans
 - The city may ban alcohol consumption on certain busy public squares/areas.
+
 ## Mask Required Outdoors
 - The city will define public areas where masks are required.
+
 ## 2G+
 - Indoor events (gatherings of over 10 people), fitness studios, cinemas, theater, bars, restaurants, tourist accomodations
+
 ## 2G
 - Same as above but for outdoors.
+
 ## Places of Prostitution
 - Closed.  
+
 ## End of Validity
 - After 5 days in a row under 350 incidence
