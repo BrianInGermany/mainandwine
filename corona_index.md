@@ -6,6 +6,7 @@ url: https://mainandwine.eu/corona_index
 --- 
 
 # Corona Rule Index
+## [Hessen Hotspot Rules from 28 Dec](https://mainandwine.eu/corona_dec28_hotspots)
 ## [Official English Corona Info from Hessen.de](https://www.hessen.de/Handeln/Corona-in-Hessen/Corona-rules-in-English)
 ## [New Hessen Rules from 28 Dec. 2021](https://mainandwine.eu/corona_dec28)
 ## [New Hessen Rules from 16 Dec. 2021](https://mainandwine.eu/corona_dec)
