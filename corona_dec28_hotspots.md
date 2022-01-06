@@ -2,7 +2,7 @@
 layout: page
 title: Hessen Hotspot Corona Rules from 28 Dec. 2021
 description: Hotspot Rules from the New Corona Ordinance Valid from 28 Dec. to 13 Jan.
-url: https://mainandwine.eu/corona_dec2_hotspots
+url: https://mainandwine.eu/corona_dec28_hotspots
 --- 
 
 # Hotspot Corona Rules in Hessen 28 Dec. 2021
