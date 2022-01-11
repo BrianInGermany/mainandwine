@@ -9,7 +9,8 @@ url: https://mainandwine.eu/events
 
 | Date       | Event                                                                                                |
 | ---------- | ---------------------------------------------------------------------------------------------------- |
-| 23.01.2022 | [Live Irish-American Folk Music at An Sibin Offenbach](https://mainandwine.eu/events_livemusic_2022-01-23)                     |      
+| 23.01.2022 | [Live Irish-American Folk Music at An Sibin Offenbach](https://mainandwine.eu/events_livemusic_2022-01-23)                     |
+| 13.01.2022 | [English Lunchbreak @ Don Pedros in Offenbach](https://mainandwine.eu/events_lunchbreak_2022-01-13)                                                       |
 | 06.01.2022 | [English Lunchbreak @ Don Pedros in Offenbach](https://mainandwine.eu/events_lunchbreak_2022-01-06)  |      
 | 16.12.2021 | English Lunchbreak @ Don Pedros in Offenbach                                                         |
 | 09.12.2021 | English Lunchbreak  @ L'Afrique in Offenbach                                                         |
