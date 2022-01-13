@@ -19,6 +19,7 @@ url: https://mainandwine.eu/corona_dec28_hotspots
 
 ## 2G+
 - Indoor events (gatherings of over 10 people), fitness studios, cinemas, theater, bars, restaurants, tourist accomodations
+- _Translator's note: 2G+ means recovery or double vaccination plus a test OR a booster shot._
 
 ## 2G
 - Same as above but for outdoors.
