@@ -11,11 +11,11 @@ Main & Wine is an informal social group of English speakers in the Offenbach are
 - [**Main & Wine Telegram Group**](https://t.me/mainandwine)
 
 ## Or Attend an Event!
-### [English Lunchbreak @ Don Pedro's!](https://mainandwine.eu/events_lunchbreak_2022-01-13)
-  - Thursday, 13 January at 12:30pm
-  - [Don Pedro's Offenbach](https://www.facebook.com/donpedroscoffee/)
-  - Frankfurter Str. 47  
-    63065 Offenbach am Main
+### [English Lunchbreak @ ofof Café!](https://mainandwine.eu/events_lunchbreak_2022-01-20)
+  - Thursday, 20 January at 12:30pm
+  - [ofof Café](https://ofofcafebar.de/)
+  - Ludwigstrasse 197
+    63067 Offenbach am Main
   - 2G+/booster required!
   - Please RSVP via [Facebook](https://www.facebook.com/groups/offenbachenglishspeakers) or [Telegram](https://t.me/mainandwine) (10 person max.)
 
