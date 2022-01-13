@@ -16,6 +16,8 @@ Main & Wine is an informal social group of English speakers in the Offenbach are
   - [ofof Café](https://ofofcafebar.de/)
   - Ludwigstrasse 197  
     63067 Offenbach am Main
+  <img src="/assets/img/ofofMap.png" alt="ofofmap" width="75%">
+
   - 2G+/booster required!
   - Please RSVP via [Facebook](https://www.facebook.com/groups/offenbachenglishspeakers) or [Telegram](https://t.me/mainandwine) (10 person max.)
 

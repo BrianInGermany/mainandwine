@@ -11,6 +11,7 @@ logo: https://mainandwine.eu/assets/img/OFOF.jpg
   - [ofof Café](https://ofofcafebar.de/)
   - Ludwigstrasse 197  
     63067 Offenbach am Main
+    <img src="/assets/img/ofofMap.png" alt="ofofmap" width="75%">
   - Check out this [cool 3D image/map](https://ofofcafebar.de/ofof-3d/) of the café!
   <img src="/assets/img/OFOF.jpg" alt="ofof" width="100%">
   - Image credit [ofofcafe](https://ofofcafebar.de)
