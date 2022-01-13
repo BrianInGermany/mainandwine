@@ -13,7 +13,7 @@ logo: https://mainandwine.eu/assets/img/OFOF.jpg
     63067 Offenbach am Main
   - Check out this [cool 3D image/map](https://ofofcafebar.de/ofof-3d/) of the café!
   <img src="/assets/img/OFOF.jpg" alt="ofof" width="100%">
-  - Image credit [ofofcafe](ofofcafebar.de)
+  - Image credit [ofofcafe](https://ofofcafebar.de)
 
 ## Please RSVP via [Facebook](https://www.facebook.com/groups/offenbachenglishspeakers/) or [Telegram](https://t.me/mainandwine)
 - Note there is a 10 person maximum.  
