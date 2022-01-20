@@ -17,7 +17,7 @@ Main & Wine is an informal social group of English speakers in the Offenbach are
   __63071 Offenbach am Main__  
 - 2G+/booster required!
 - Please RSVP via [Facebook](https://www.facebook.com/events/3126044687718092), [Telegram](https://t.me/mainandwine) or [Meetup.com](https://meetup.com/main-wine/events/283023812)  
-  <img src="/assets/img/irishHouseMap.png" alt="irishmap" width="75%">
+  <img src="/assets/img/irishHouseMap.png" alt="irishmap" width="100%">
 
  
 
