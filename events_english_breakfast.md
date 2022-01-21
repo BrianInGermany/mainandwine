@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "06.02.22: English Breakfast for the Vegetarian and Carnivore"
+title: "06.02.22: English Breakfast for the Vegetarian and Carnivore!"
 description: Join us for a friendly breakfast in Offenbach on Sunday, 6 February at Don Pedro's!
 url: https://mainandwine.eu/events_english_breakfast
 logo: https://mainandwine.eu/assets/img/english_breakfast.jpg
