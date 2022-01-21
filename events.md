@@ -9,6 +9,7 @@ url: https://mainandwine.eu/events
 
 | Date       | Event                                                                                                |
 | ---------- | ---------------------------------------------------------------------------------------------------- |
+| 06.02.2022 | [English Breakfast for the Vegetarian and Carnivore! (@Don Pedro's)](https://mainandwine.eu/events_english_breakfast)                     |
 | 23.01.2022 | [Live Irish-American Folk Music at An Sibin Offenbach](https://mainandwine.eu/events_livemusic_2022-01-23)                     |
 | 20.01.2022 | [English Lunchbreak @ ofof Café in Offenbach](https://mainandwine.eu/events_lunchbreak_2022-01-20)                                                       |
 | 13.01.2022 | [English Lunchbreak @ Don Pedros in Offenbach](https://mainandwine.eu/events_lunchbreak_2022-01-13)                                                       |
