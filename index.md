@@ -16,7 +16,7 @@ Main & Wine is an informal social group of English speakers in the Offenbach are
 - __Frankfurter Str. 47__  
   __63065 Offenbach am Main__  
 - 2G+/booster required!  
-- ![brekkie](/assets/img/english_breakfast.jpg) 
+![brekkie](/assets/img/english_breakfast.jpg) 
 
 ## [Events List](https://mainandwine.eu/events)
 
