@@ -18,11 +18,12 @@ Main & Wine is an informal social group of English speakers in the Offenbach are
 - 2G+/booster required!  
 ![brekkie](/assets/img/english_breakfast.jpg) 
 
-### [Live Irish and American Folk Music](https:/mainandwine.eu/events_livemusic_final_sunday)
-- __The final Sunday of the month at 7:00pm__
+### [Live Irish and American Folk Music @AnSibinIrishPub](https:/mainandwine.eu/events_livemusic_final_sunday)
+- __Every final Sunday of the month at 7:00pm__
 - __Ernst-Griesheimer-Platz 7__  
   __63071 Offenbach am Main__
 - 2G+/booster required!  
+  
 ## [Events List](https://mainandwine.eu/events)
 
 ## [News for Offenbach](https://mainandwine.eu/news)
