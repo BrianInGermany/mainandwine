@@ -14,5 +14,3 @@ logo: https://mainandwine.eu/assets/img/english_breakfast.jpg
 - We will meet at these tables in the back:
 <img src="/assets/img/don_pedros_tables.jpg" alt="don pedros" width="100%">
 
-## Please RSVP via [Facebook](https://www.facebook.com/groups/offenbachenglishspeakers/) or [Telegram](https://t.me/mainandwine)
-
