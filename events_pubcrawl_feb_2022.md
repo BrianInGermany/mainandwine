@@ -3,7 +3,7 @@ layout: page
 title: "25.02.22: Offenbach Pubcrawl!"
 description: Join us for a pubcrawl through four Offenbacher beer bars. From the Belgian hop haven, Le Belge, to the club-run Irish Pub, The Bogside, including a stop to the best hidden-gem bottle shop you've ever seen!
 url: https://mainandwine.eu/events_pubcrawl_feb_2022
-logo: https://mainandwine.eu/assets/img/crawlbeer.jpg
+logo: https://mainandwine.eu/assets/img/crawlemoji.jpeg
 ---
 
 # Offenbach Pubcrawl!
@@ -17,7 +17,7 @@ logo: https://mainandwine.eu/assets/img/crawlbeer.jpg
   4. Lokalbahnhof: classic Offenbach bar and restaurant
   5. Bogside Pub: friendly club-run Irish Pub
    
-  <img src="https://mainandwine.eu/assets/img/crawlbeer.jpg" alt="crawl" width="100%">
+  <img src="https://mainandwine.eu/assets/img/crawlemoji.jpeg" alt="crawl" width="100%">
 
 ## Please RSVP via [Facebook](https://www.facebook.com/groups/offenbachenglishspeakers/) or [Telegram](https://t.me/mainandwine)
 
