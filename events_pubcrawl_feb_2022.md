@@ -11,7 +11,7 @@ logo: https://mainandwine.eu/assets/img/crawlbeer.jpg
 - __Starting Point: Sbhf OF-Marktplatz (Exit at Sparkasse)__  
 - Let's celebrate the slightly warming temperatures and go bar hopping!
 - Here is the planned route:
-  1. Le Belge: Belgian Beer Bar with about 20 beers on tap plus food
+  1. Le Belge: Belgian beer bar with about 20 beers on tap plus food
   2. Salzgässchen: alt-Offenbacher Kneipe
   3. Otherwise Nondescript Kiosk: internet café with an incredible beer selection (for the road)
   4. Lokalbahnhof: classic Offenbach bar and restaurant
