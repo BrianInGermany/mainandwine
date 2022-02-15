@@ -15,7 +15,6 @@ Main & Wine is an informal social group of English speakers in the Offenbach are
 - __Thursdays at 12:30-1:30pm__
 - __Varying Locations in Offenbach__
 - __See FB or Telegram for the next planned event!__  
-![lunchbreak](https://mainandwine.eu/assets/img/lunchbreak.jpg)
 
 ### [Offenbach Pub Crawl!](/events_pubcrawl_feb_2022)  
 - __Friday, 25 February, 7:30pm__
