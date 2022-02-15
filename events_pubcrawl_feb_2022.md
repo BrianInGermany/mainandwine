@@ -7,7 +7,7 @@ logo: https://mainandwine.eu/assets/img/crawlbeer.png
 ---
 
 # Offenbach Pubcrawl!
-- __Friday, 25 February, 19:30__
+- __Friday, 25 February, 7:30pm__
 - __Starting Point: Sbhf OF-Marktplatz (Exit at Sparkasse)__  
 - Let's celebrate the slightly warming temperatures and go bar hopping!
 - Here is the planned route:
