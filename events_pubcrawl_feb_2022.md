@@ -15,7 +15,7 @@ logo: https://mainandwine.eu/assets/img/crawlbeer.jpg
   2. Salzgässchen: alt-Offenbacher Kneipe
   3. Otherwise Nondescript Kiosk: internet café with an incredible beer selection (for the road)
   4. Lokalbahnhof: classic Offenbach bar and restaurant
-  5. Bogside Pub: friendly club-run Irish Pub
+  5. Bogside Pub: friendly, club-run Irish Pub
    
   <img src="https://mainandwine.eu/assets/img/crawlemoji.jpeg" alt="crawl" width="100%">
 
