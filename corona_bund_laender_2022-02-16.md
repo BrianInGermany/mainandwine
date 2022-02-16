@@ -7,7 +7,7 @@ logo: https://mainandwine.eu/assets/img/coronaimg.jpg
 
 ---
 
-# Bund-Länder Conference Has Passed Three-Step Rule Roll-Back
+# Bund-Länder Conference Passes Three-Step Rule Roll-Back
 As Hessen's Minister President Volker Bouffier reported in front of the press on Wednesday afternoon, 16 February, the conference of the federal government and the Bundesländer has passed a three-step plan to ease the contact and vaccination requirements implemented to stop the spread of the Corona virus.
 
 ## Step One: As soon as Hessian parliament enacts the new agreement ("in the course of the coming week")
