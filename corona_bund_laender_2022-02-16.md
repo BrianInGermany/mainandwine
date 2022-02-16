@@ -14,7 +14,7 @@ As Hessen's Minister President Volker Bouffier reported in front of the press on
 In step one, private gatherings of over 10 fully vaccinated or recovered individuals will be allowed without a cap. Unvaccinated individuals will not benefit from this step.
 
 ## Step Two: 4 March
-In step two, gastronomy and hotels will switch to the 3G rule (vaccinated, recovered or tested).gelten. Discos and nightclubs will open for vaccinated/recovered with a same-day test, or triple-vaccinated individuals (2G+).
+In step two, gastronomy and hotels will switch to the 3G rule (vaccinated, recovered or tested). Discos and nightclubs will open for vaccinated/recovered with a same-day test, or triple-vaccinated individuals (2G+).
 Large-scale events (football, etc.) may use 60% (indoor) or 75% of (outdoor) capacity.
 
 ## Step Three: 20 March
