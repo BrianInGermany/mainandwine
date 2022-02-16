@@ -3,6 +3,8 @@ layout: page
 title: Three-Step Roll-Back of All Corona Rules Announced
 description: The federal government and the Bundesländer have passed new, nationwide corona rules, culminating in a "freedom day" on March 20, 2022.
 url: https://mainandwine.eu/corona_bund_laender_2022-02-16
+logo: https://mainandwine.eu/assets/img/coronaimg.jpg
+
 ---
 
 # Bund-Länder Conference Has Passed Three-Step Rule Roll-Back
