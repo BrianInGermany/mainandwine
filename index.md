@@ -16,11 +16,9 @@ Main & Wine is an informal social group of English speakers in the Offenbach are
 - __Varying Locations in Offenbach__
 - __See FB or Telegram for the next planned event!__  
 
-### Riverside Barbecue!
-- __Occasional Saturdays at 2pm__
-- __At riverside "Grillbereich" (by Friedhofstr.)__
-- __See FB or Telegram for the next planned event!__ 
-![](/assets/img/riverbbq.jpg)
+### [Pub Crawl!](https://mainandwine.eu/events_pubcrawl_2022-06-10)
+- __Friday, June 10th at 7:30pm__
+- [__Click for more details__](https://mainandwine.eu/events_pubcrawl_2022-06-10)
 
 ### [Live Irish and American Folk Music @AnSibinIrishPub](/events_livemusic_final_sunday)
 - __Every final Sunday of the month at 7:00pm__
