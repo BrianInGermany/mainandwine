@@ -6,7 +6,6 @@ url: https://mainandwine.eu/events_pubcrawl_2022-06-10
 logo: https://mainandwine.eu/assets/img/ofPubcrawl.png
 ---
 
-# Offenbach Pub Crawl!
 ![](assets/img/ofPubcrawl.png)
 
 - __Friday, 10 June, 7:30pm__
