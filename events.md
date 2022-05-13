@@ -9,6 +9,7 @@ url: https://mainandwine.eu/events
 
 | Date       | Event                                                                                                |
 | ---------- | ---------------------------------------------------------------------------------------------------- |
+| 2022 | ...and many more!                    |
 | 12.03.2022 | Riverside BBQ Party                    |
 | 27.02.2022 | Live Irish-American Folk Music at An Sibin Offenbach                    |
 | 25.02.2022 | [Offenbach Pub Crawl!](/events_pubcrawl_feb_2022)                     |
