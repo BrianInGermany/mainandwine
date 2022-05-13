@@ -17,6 +17,7 @@ Main & Wine is an informal social group of English speakers in the Offenbach are
 - __See FB or Telegram for the next planned event!__  
 
 ### [Pub Crawl!](https://mainandwine.eu/events_pubcrawl_2022-06-10)
+![](assets/img/noun-beers-1046813.png)
 - __Friday, June 10th at 7:30pm__
 - __Meeting point Sparkasse Offenbach (by S-Bahn)__
 
@@ -24,7 +25,7 @@ Main & Wine is an informal social group of English speakers in the Offenbach are
 - __Every final Sunday of the month at 7:00pm__
 - __Ernst-Griesheimer-Platz 7__  
   __63071 Offenbach am Main__
-  
+
 <video src="https://briankenneth.rocks/assets/images/sessionAnSibin.mp4" autoplay muted loop controls width="100%"></video>
   
 ## [Past Events](https://mainandwine.eu/events)
