@@ -6,8 +6,8 @@ url: https://mainandwine.eu/events_pubcrawl_2022-06-10
 logo: https://mainandwine.eu/assets/img/noun-beers-1046813.png
 ---
 
-## Offenbach Pub Crawl!
-![](assets/img/noun-beers-1046813.png)
+## Offenbach Pub Crawl!  
+<img src="/assets/img/noun-beers-1046813.png" alt="beer" width="40%">  
 - __Friday, 10 June, 7:30pm__
 - __Starting Point: Sbhf OF-Marktplatz (Exit at Sparkasse)__  
 - Join us for a pubcrawl through four Offenbacher establishments. From the French wine and aperitif stand, Apres Midi, to the waterfront Offenbach classic, Bembelboot, including a stop to the best hidden-gem bottle shop you've ever seen!
