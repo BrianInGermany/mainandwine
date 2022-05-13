@@ -6,8 +6,8 @@ description: English-Speaking Community for Offenbach
 ## Who are we?
 Main & Wine is an informal social group of English speakers in the Offenbach area that meets regularly for lunch or evening drinks. We come from all over the world, but we all speak (some) English. Newcomers are welcome to join at any time! [Facebook](https://www.facebook.com/groups/offenbachenglishspeakers) and [Telegram](https://t.me/mainandwine) are our means of communication and organization. 
 
-## [**Facebook Group**](https://www.facebook.com/groups/offenbachenglishspeakers) 
-## [**Telegram Group**](https://t.me/mainandwine)
+## [**Join on Facebook**](https://www.facebook.com/groups/offenbachenglishspeakers) 
+## [**Join on Telegram**](https://t.me/mainandwine)
 
 ## Next Events
 ### Thursday English Lunchbreak
@@ -16,7 +16,7 @@ Main & Wine is an informal social group of English speakers in the Offenbach are
 - __See FB or Telegram for the next planned event!__  
 
 ### [Pub Crawl!](https://mainandwine.eu/events_pubcrawl_2022-06-10)  
-<img src="/assets/img/noun-beers-1046813.png" alt="beer" width="40%">  
+<img src="/assets/img/noun-beers-1046813.png" alt="beer" width="40%">
 - __Friday, June 10th at 7:30pm__
 - __Meeting point Sparkasse Offenbach (by S-Bahn)__
 
