@@ -2,8 +2,8 @@
 layout: page
 title: "10.06.22: Offenbach Pub Crawl!"
 description: Join us for a pubcrawl through four Offenbacher establishments. From the French wine and aperitif stand, Apres Midi, to the waterfront Offenbach classic, Bembelboot, including a stop to the best hidden-gem bottle shop you've ever seen!
-url: https://mainandwine.eu/events_pubcrawl_2022-06-10
-logo: https://mainandwine.eu/assets/img/noun-beers-1046813.png
+url: https://mainandwine.eu/events_pub_crawl_2022-06-10
+logo: https://mainandwine.eu/assets/img/noun-beers-1046813white.png
 ---
 
 ## Offenbach Pub Crawl!  
