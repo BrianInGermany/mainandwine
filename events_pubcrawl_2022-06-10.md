@@ -14,7 +14,7 @@ logo: https://mainandwine.eu/assets/img/noun-beers-1046813.png
 - Here is the planned route:
   1. Apres Midi: wine and aperitif stand on Mathildenplatz with a great selection of Pastis
   2. Some restaurant at Wilhelmsplatz: whichever can host us all semi-spontaneously
-  3. Otherwise Nondescript Kiosk: internet café in Bieberer Str. with an incredible beer selection (for the road)
+  3. Otherwise nondescript kiosk: internet café in Bieberer Str. with an incredible beer selection (for the road)
   4. Bembel Boot: an Offenbach classic at the riverside
    
 ## Please RSVP via [Facebook](https://www.facebook.com/groups/offenbachenglishspeakers/) or [Telegram](https://t.me/mainandwine)
