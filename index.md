@@ -17,7 +17,7 @@ Main & Wine is an informal social group of English speakers in the Offenbach are
 
 ### [Meetup Summer BBQ Party at Offenbacher Grillzone](https://mainandwine.eu/events_summerbbq)
 - __Saturday, 30th July at 4:00pm__
-<img src="assets/img/grillzoneOF.png" alt="grill" width="70%">
+<img src="assets/img/grillgreen.jpg" alt="grill" width="70%">
 
 
 ## [Past Events](https://mainandwine.eu/events)
