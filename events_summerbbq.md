@@ -13,7 +13,7 @@ __Offenbach and Frankfurt unite for a riverside Saturday-afternoon BBQ!__
 
 It's time for the fourth edition of the big Meetup summer BBQ. This event in which several Meetup groups join forces was great fun in previous years, so we’ll do again.
 
-We’ll have a picnic and chat, exchange ideas and practice languages. Please bring your own supplies! Drinks and food can be bought at a supermarket near the venue, and he organizers will also have some cutlery, plates, etc. Nonetheless, bringing your own is a plus. If you have your own grill, we encourage you to bring it, too. "Better safe than sorry" :)
+We’ll have a picnic and chat, exchange ideas and practice languages. Please bring your own supplies! Drinks and food can be bought at a [supermarket near the venue](https://www.rewe.de/marktseite/offenbach-mathildenviertel/241179/rewe-markt-mathildenstrasse-15-19/), and he organizers will also have some cutlery, plates, etc. Nonetheless, bringing your own is a plus. If you have your own grill, we encourage you to bring it, too. "Better safe than sorry" :)
 
 Don't forget your picnic blankets :)
 
