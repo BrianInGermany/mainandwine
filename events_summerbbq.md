@@ -12,7 +12,7 @@ __Offenbach and Frankfurt unite for a riverside Saturday-afternoon BBQ!__
   __Offenbach Grillzone__   
   __Mainstr. 119 (roughly)__  
   __63065 Offenbach am Main__  
-<img src="assets/img/grillzoneOF.png" alt="grill" width="70%">
+<img src="assets/img/grillgreen.jpg" alt="grill" width="70%">
 
 It's time for the fourth edition of the big Meetup summer BBQ. This event in which several Meetup groups join forces was great fun in previous years, so we’ll do again.
 
