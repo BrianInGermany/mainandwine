@@ -9,7 +9,9 @@ url: https://mainandwine.eu/events
 
 | Date       | Event                                                                                                |
 | ---------- | ---------------------------------------------------------------------------------------------------- |
-| 2022 | ...and many more!                    |
+| 30.07.2022 | [Meetup Summer BBQ Party at Offenbacher Grillzone](https://mainandwine.eu/events_summerbbq)                |
+| 10.06.2022 | Pub Crawl Summer Edition!              |
+| 05.2022 | Riverside Hoe-Down with Live music                   |
 | 12.03.2022 | Riverside BBQ Party                    |
 | 27.02.2022 | Live Irish-American Folk Music at An Sibin Offenbach                    |
 | 25.02.2022 | [Offenbach Pub Crawl!](/events_pubcrawl_feb_2022)                     |
