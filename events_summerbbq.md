@@ -8,7 +8,7 @@ logo: https://mainandwine.eu/assets/img/grillgreen.jpg
 
 # Meetup Summer BBQ Party
 __Offenbach and Frankfurt unite for a riverside Saturday-afternoon BBQ!__
-- __Saturday, 30.7.2022 at 4:00pm__   
+- __Saturday, 30.7.2022 at 6:00pm__   
 <img src="assets/img/grillzoneOF.png" alt="grill" width="80%">
 
 It's time for the fourth edition of the big Meetup summer BBQ. This event in which several Meetup groups join forces was great fun in previous years, so we’ll do again.
