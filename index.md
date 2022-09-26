@@ -11,14 +11,9 @@ Main & Wine is an informal social group of English speakers in the Offenbach are
 
 ## Next Events
 ### Thursday English Lunchbreak
-- __Thursdays at 12:30-1:30pm__
+- __Thursdays at ~12:30-1:30pm__
 - __Varying Locations in Offenbach__
-- __See FB or Telegram for the next planned event!__  
-
-### [Meetup Summer BBQ Party at Offenbacher Grillzone](https://mainandwine.eu/events_summerbbq)
-- __Saturday, 30th July at 6:00pm__
-<img src="assets/img/grillgreen.jpg" alt="grill" width="70%">
-
+- __See Telegram for the next planned lunch!__  
 
 ## [Past Events](https://mainandwine.eu/events)
 
