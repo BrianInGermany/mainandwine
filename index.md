@@ -8,6 +8,7 @@ Main & Wine is an informal social group of English speakers in the Offenbach are
 
 ## [**Join on Facebook**](https://www.facebook.com/groups/offenbachenglishspeakers) 
 ## [**Join on Telegram**](https://t.me/mainandwine)
+- Please note you must do a Captcha to prove you're human :)
 
 ## Next Events
 ### Thursday English Lunchbreak
