@@ -7,8 +7,8 @@ header:
   teaser: "https://thejunkyard.cchttps://thejunkyard.cc/assets/images/66.jpg"
 
 ---
-# Fun & Games :game_die: 
-For the occasional pause in conversation :game_die: :hearts: :diamonds: :spades: :clubs:.
+# Fun & Games 
+For the occasional pause in conversation :game_die: :hearts: :diamonds: :spades: :clubs: :game_die:.
 <div width=100%>
 | Game                                                                        | Players | Pace   | Description                                                                                                                                                                                                                              | Pic                                                                 |
 | --------------------------------------------------------------------------- | ------- | ------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------- |
