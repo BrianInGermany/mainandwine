@@ -10,7 +10,8 @@ header:
 # Fun & Games 
 For the occasional pause in conversation :game_die: :hearts: :spades: :clubs: :diamonds: :game_die:.  
 
-<div width=100%>
+<div>  
+
 | Game                                                                        | Players | Pace   | Description                                                                                                                                                                                                                              | Pic                                                                 |
 | --------------------------------------------------------------------------- | ------- | ------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------- |
 | [Durak](https://boardgamegeek.com/boardgame/29351/durak)                    | 4-8     | fast   | Gang up on (defenseless? :) ) opponents in this souped-up version of war for 3-8 players.                                                                                                                                                |                                                                     |
