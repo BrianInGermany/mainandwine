@@ -8,9 +8,7 @@ header:
 
 ---
 # Fun & Games 
-For the occasional pause in conversation :game_die: :hearts: :spades: :clubs: :diamonds: :game_die:.  
-
-<div>  
+For the occasional pause in conversation :game_die: :hearts: :spades: :diamonds: :clubs: :game_die:.  
 
 | Game                                                                        | Players | Pace   | Description                                                                                                                                                                                                                              | Pic                                                                 |
 | --------------------------------------------------------------------------- | ------- | ------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------- |
@@ -23,6 +21,4 @@ For the occasional pause in conversation :game_die: :hearts: :spades: :clubs: :d
 | [Pick-omino/Heckmeck](https://boardgamegeek.com/boardgame/15818/pickomino)  | 2-7     | medium | Dice-rolling game where you have to match the rolled numbers with numbered domino-like pieces on the table. Weird worm-and-chicken based theme, but if it's fun, who cares?                                                              | <img src="https://thejunkyard.cc/assets/images/heckmeck.jpg" alt="heckmeck">              |
 | [Wizard](https://boardgamegeek.com/boardgame/1465/wizard)                   | 3-6     | medium | This trick-making game and variant of Oh Hell is more about guessing how many tricks your hand can make than actually making the tricks themselves. It's basically a 52-card deck plus four wizards and four jokers.                     |                                                                     |
 | [Blitz](https://thejunkyard.cc/2022/10/09/blitz_cardgame.html) :heart:      | 2-7     | slow   | Win by not losing! In this fun Blackjack predecessor, keep your lives to stay afloat.                                                                                                                                                    | <img src="https://thejunkyard.cc/assets/images/blitz.jpg" alt="blitz">                    |
-| [Hive](https://boardgamegeek.com/boardgame/2655/hive)                       | 2       | slow   | Boardless boardgame for two players. Move your hexagonal insect pieces around the field to surround your opponent's queen bee and win the hive.                                                                                          | <img src="https://thejunkyard.cc/assets/images/hive.jpg" alt="hive">                      |
-
-</div>
+| [Hive](https://boardgamegeek.com/boardgame/2655/hive)                       | 2       | slow   | Boardless boardgame for two players. Move your hexagonal insect pieces around the field to surround your opponent's queen bee and win the hive.                                                                                          | <img src="https://thejunkyard.cc/assets/images/hive.jpg" alt="hive">                    |
