@@ -18,12 +18,6 @@ Main & Wine is an informal social group of English speakers in the Offenbach are
 - __Varying Locations in Offenbach__ 
 - __See Telegram for the next planned lunch!__ 
 
-### English Table at Norma's OF Game Night
-- __Monday, Oct. 17th at 7pm__
-- __Contact Norma to sign up and get location__
-- __FB__
-- __Telegram__
-
 
 ## [Fun & Games](https://thejunkyard.cc/games)
 ## [Gallery](https://mainandwine.eu/gallery)
