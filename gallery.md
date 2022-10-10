@@ -2,7 +2,10 @@
 layout: page
 title: Main & Wine Gallery
 description: Fun Times with Offenbach English Speakers
-url: https://mainandwine.eu/gallery
+url: https://mainandwingallerye.eu/gallery
+header:
+  teaser: "https://thejunkyard.cc/assets/images/bananabandido.jpg"
+
 ---
 
 # Gallery
