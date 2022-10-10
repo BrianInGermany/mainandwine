@@ -19,9 +19,10 @@ Main & Wine is an informal social group of English speakers in the Offenbach are
 - __See Telegram for the next planned lunch!__ 
 
 
-## [Fun & Games](https://thejunkyard.cc/games)
 ## [Gallery](https://mainandwine.eu/gallery)
 
 ## [Instagram](https://www.instagram.com/ofenglishspeakers)
+
+## [Brian's Fun & Games](https://thejunkyard.cc/games)
 
 ## [Impressum](https://mainandwine.eu/impressum)
