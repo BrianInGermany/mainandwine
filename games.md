@@ -8,8 +8,8 @@ header:
 
 ---
 # Fun & Games :game_die: 
-For the occasional pause in conversation :joy:.
-
+For the occasional pause in conversation :game_die: :hearts: :diamonds: :spades: :clubs:.
+<div width=100%>
 | Game                                                                        | Players | Pace   | Description                                                                                                                                                                                                                              | Pic                                                                 |
 | --------------------------------------------------------------------------- | ------- | ------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------- |
 | [Durak](https://boardgamegeek.com/boardgame/29351/durak)                    | 4-8     | fast   | Gang up on (defenseless? :) ) opponents in this souped-up version of war for 3-8 players.                                                                                                                                                |                                                                     |
@@ -22,3 +22,4 @@ For the occasional pause in conversation :joy:.
 | [Wizard](https://boardgamegeek.com/boardgame/1465/wizard)                   | 3-6     | medium | This trick-making game and variant of Oh Hell is more about guessing how many tricks your hand can make than actually making the tricks themselves. It's basically a 52-card deck plus four wizards and four jokers.                     |                                                                     |
 | [Blitz](https://thejunkyard.cc/2022/10/09/blitz_cardgame.html) :heart:      | 2-7     | slow   | Win by not losing! In this fun Blackjack predecessor, keep your lives to stay afloat.                                                                                                                                                    | <img src="https://thejunkyard.cc/assets/images/blitz.jpg" alt="blitz">                    |
 | [Hive](https://boardgamegeek.com/boardgame/2655/hive)                       | 2       | slow   | Boardless boardgame for two players. Move your hexagonal insect pieces around the field to surround your opponent's queen bee and win the hive.                                                                                          | <img src="https://thejunkyard.cc/assets/images/hive.jpg" alt="hive">                      |
+</div>

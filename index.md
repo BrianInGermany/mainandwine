@@ -12,11 +12,11 @@ Main & Wine is an informal social group of English speakers in the Offenbach are
 
 ## Next Events
 ### Thursday English Lunchbreak
-- __Thursdays at ~12:30-1:30pm__ :clock1230:
-- __Varying Locations in Offenbach__ :round_pushpin:
+- :clock1230: __Thursdays at ~12:30-1:30pm__ 
+- :round_pushpin: __Varying Locations in Offenbach__ 
 - __See Telegram for the next planned lunch!__  
 
-## [Fun & Games :game_die:](https://mainandwine.eu/games)
+## [Fun & Games](https://mainandwine.eu/games)
 
 ## [Gallery](https://mainandwine.eu/gallery)
 
