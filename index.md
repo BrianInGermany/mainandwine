@@ -10,6 +10,7 @@ Main & Wine is an informal social group of English speakers in the Offenbach are
 ## [**Join on Telegram**](https://t.me/mainandwine)
 - We use Telegram for group-functionality and data-protection reasons.
   - We are not crazies. :D 
+  - Though we do have an [in-Telegram Uno-playing team](https://t.me/mainandwine_uno)
 
 ## Next Events
 
