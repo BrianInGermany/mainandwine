@@ -8,7 +8,8 @@ header:
 
 ---
 # Fun & Games 
-For the occasional pause in conversation :game_die: :hearts: :diamonds: :spades: :clubs: :game_die:.
+For the occasional pause in conversation :game_die: :hearts: :spades: :clubs: :diamonds: :game_die:.  
+
 <div width=100%>
 | Game                                                                        | Players | Pace   | Description                                                                                                                                                                                                                              | Pic                                                                 |
 | --------------------------------------------------------------------------- | ------- | ------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------- |
