@@ -7,7 +7,7 @@ header:
   teaser: "https://thejunkyard.cchttps://thejunkyard.cc/assets/images/66.jpg"
 
 ---
-# Fun & Games  
+# Fun & Games :game_die: 
 For the occasional pause in conversation :joy:.
 
 | Game                                                                        | Players | Pace   | Description                                                                                                                                                                                                                              | Pic                                                                 |
