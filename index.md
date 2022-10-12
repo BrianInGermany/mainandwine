@@ -18,7 +18,7 @@ Main & Wine is an informal social group of English speakers in the Offenbach are
 - __Downtown Offenbach__
 - __Contact [Norma on Telegram](http://t.me/Normina_Norminski) or [register on Facebook](https://www.facebook.com/events/782164272835891) to get location and sign up__
 
-### Thursday English Lunchbreak
+### Thursday Lunch
 - __Thursdays at ~12:30-1:30pm__ 
 - __Varying locations in Offenbach__ 
 - __See Telegram for the next planned lunch!__
