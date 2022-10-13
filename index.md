@@ -13,9 +13,9 @@ Main & Wine is an informal social group of English speakers in the Offenbach are
 
 ## Next Events
 
-### November Pub Crawl!
-- __Early November__
-- __Deets TBA__
+### [November Pub Crawl!](https://mainandwine.eu/events_pubcrawl_nov22)
+- __Friday, November 4th__
+- __Starting 7pm at Le Belge__
   
 ### Thursday Lunch
 - __Thursdays at ~12:30-1:30pm__ 
