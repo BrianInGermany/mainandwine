@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Main & Wine OF Pub Crawl!"
-description: "04.11.2022: "
+description: "04.11.2022: Join us, as we tour the taverns of autumnal Offenbach!"
 url: https://mainandwine.eu/events_pubcrawl_nov22
 logo: https://mainandwine.eu/assets/img/barcrawl.jpg
 ---
