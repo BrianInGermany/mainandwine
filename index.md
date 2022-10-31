@@ -10,7 +10,6 @@ Main & Wine is an informal social group of English speakers in the Offenbach are
 ## [**Join on Telegram**](https://t.me/mainandwine)
 - We use Telegram for group-functionality and data-protection reasons.
   - We are not crazies. :D 
-  - Also consider joining our separate [Events! board](https://t.me/ofenglishspeakers) on Telegram
 
 ## Next Events
 
@@ -24,9 +23,9 @@ Main & Wine is an informal social group of English speakers in the Offenbach are
 - __See Telegram for the next planned lunch!__
 
 ### English Table @ Norma's OF Game Night
-- __Monday, Oct. 17th at 7pm__
+- __Every second Monday at 7pm__
 - __Downtown Offenbach__
-- __Contact [Norma on Telegram](http://t.me/Normina_Norminski) or [register on Facebook](https://www.facebook.com/events/782164272835891) to get location and sign up__
+- __Contact [Norma on Telegram](http://t.me/Normina_Norminski) or [on Facebook](https://www.facebook.com/groups/1409178569550115) to get location and sign up__
 
 ## [Gallery](https://mainandwine.eu/gallery)
 
