@@ -14,7 +14,12 @@ __Join Main & Wine as we tour the taverns of autumnal Offenbach!__
 3. __Bottle Shop Bieberer Str. 29__
 4. __[Am Lokalbahnhof](https://lokalbahnhof.eu/)__
 5. __[Lili Eck](https://www.google.com/search?q=lili+eck+offenbach&oq=lili+eck+offenbach&aqs=chrome.0.69i59j69i60l3.1843j0j4&sourceid=chrome&ie=UTF-8#)__
-- __
+
+
+## Please let us know you're coming:
+- Via [Telegram](https://t.me/mainandwine/9102)
+- Via [Facebook](https://www.facebook.com/groups/offenbachenglishspeakers)
+  
 <img src="assets/img/barcrawl.jpg" alt="pubcrawl" width="80%">
 
 
