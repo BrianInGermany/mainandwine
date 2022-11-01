@@ -18,7 +18,8 @@ __Join Main & Wine as we tour the taverns of autumnal Offenbach!__
 
 ## Please let us know you're coming:
 - Via [Telegram](https://t.me/mainandwine/9102)
-- Via [Facebook](https://www.facebook.com/groups/offenbachenglishspeakers)
+- Via [Facebook Event](https://www.facebook.com/events/1324572114948158/)
+  - (If you are not in the FB group, please [join first here](https://www.facebook.com/groups/offenbachenglishspeakers))
   
 <img src="assets/img/barcrawl.jpg" alt="pubcrawl" width="80%">
 
