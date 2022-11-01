@@ -6,7 +6,8 @@ url: https://mainandwine.eu/events_pubcrawl_nov22
 logo: https://mainandwine.eu/assets/img/barcrawl.jpg
 ---
 
-# November OF Pub Crawl! Alt-Offenbacher Edition!
+# November OF Pub Crawl! 
+## Alt-Offenbacher Edition!  
 __Join Main & Wine as we tour the taverns of autumnal Offenbach!__
 - __Friday, 04.11.2022 at 7:00pm__   
 1. __Meeting point: [Le Belge](http://lebelge.de/) at Wilhelmsplatz__
