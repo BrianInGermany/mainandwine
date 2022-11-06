@@ -9,4 +9,4 @@ description: Imprint of the Meetup Group Main & Wine
 Brian Junker-Latocha  
 Offenbach am Main
 
-[brian@thejunkyard.cc](mailto:brian@thejunkyard.cc)
+[brian@mainandwine.eu](mailto:brian@mainandwine.eu)
