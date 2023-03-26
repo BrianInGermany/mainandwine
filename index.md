@@ -10,7 +10,7 @@ Offenbach Social Club is an informal social group of English speakers in the Off
 ## [**Join on Telegram**](https://t.me/offenbachsocialclub)
 - We use Telegram for group-functionality and data-protection reasons.
   - We are not crazies. :D 
-
+## Event Overview  
 <div class='sk-meetup-event' data-embed-id='127613'></div><script src='https://widgets.sociablekit.com/meetup-group-events/widget.js' async defer></script>
 
 ## [Gallery](https://offenbachsocialclub.com/gallery)
