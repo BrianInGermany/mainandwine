@@ -19,6 +19,8 @@ Offenbach Social Club is an informal group of English speakers in the Offenbach 
 
 ## [Gallery](https://offenbachsocialclub.com/gallery)
 
+## [Previous Events](https://offenbachsocialclub.com/events)  
+
 ## [Instagram](https://www.instagram.com/ofenglishspeakers)
 - If you want to contact us, please use email or telegram, not Insta :)
 
