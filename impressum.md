@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Impressum
-description: Imprint of the Meetup Group Main & Wine
+description: Imprint of the Offenbach Social Club
 ---
 
 # Inhaltlich verantwortlich ist:
@@ -9,4 +9,4 @@ description: Imprint of the Meetup Group Main & Wine
 Brian Junker-Latocha  
 Offenbach am Main
 
-[brian@mainandwine.eu](mailto:brian@mainandwine.eu)
+[brian@offenbachsocialclub.com](mailto:brian@offenbachsocialclub.com)

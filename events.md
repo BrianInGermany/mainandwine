@@ -1,25 +1,25 @@
 ---
 layout: page
 title: Events in Offenbach
-description: Social Events with Main & Wine Offenbach
-url: https://mainandwine.eu/events
+description: Social Events with Offenbach Social Club Offenbach
+url: https://offenbachsocialclub.com/events
 ---
 
 # Events
 
 | Date       | Event                                                                                                |
 | ---------- | ---------------------------------------------------------------------------------------------------- |
-| 30.07.2022 | [Meetup Summer BBQ Party at Offenbacher Grillzone](https://mainandwine.eu/events_summerbbq)                |
+| 30.07.2022 | [Meetup Summer BBQ Party at Offenbacher Grillzone](https://offenbachsocialclub.com/events_summerbbq)                |
 | 10.06.2022 | Pub Crawl Summer Edition!              |
 | 05.2022 | Riverside Hoe-Down with Live music                   |
 | 12.03.2022 | Riverside BBQ Party                    |
 | 27.02.2022 | Live Irish-American Folk Music at An Sibin Offenbach                    |
 | 25.02.2022 | [Offenbach Pub Crawl!](/events_pubcrawl_feb_2022)                     |
-| 06.02.2022 | [English Breakfast for the Vegetarian and Carnivore! (@Don Pedro's)](https://mainandwine.eu/events_english_breakfast)                     |
-| 23.01.2022 | [Live Irish-American Folk Music at An Sibin Offenbach](https://mainandwine.eu/events_livemusic_2022-01-23)                     |
-| 20.01.2022 | [English Lunchbreak @ ofof Café in Offenbach](https://mainandwine.eu/events_lunchbreak_2022-01-20)                                                       |
-| 13.01.2022 | [English Lunchbreak @ Don Pedros in Offenbach](https://mainandwine.eu/events_lunchbreak_2022-01-13)                                                       |
-| 06.01.2022 | [English Lunchbreak @ Don Pedros in Offenbach](https://mainandwine.eu/events_lunchbreak_2022-01-06)  |      
+| 06.02.2022 | [English Breakfast for the Vegetarian and Carnivore! (@Don Pedro's)](https://offenbachsocialclub.com/events_english_breakfast)                     |
+| 23.01.2022 | [Live Irish-American Folk Music at An Sibin Offenbach](https://offenbachsocialclub.com/events_livemusic_2022-01-23)                     |
+| 20.01.2022 | [English Lunchbreak @ ofof Café in Offenbach](https://offenbachsocialclub.com/events_lunchbreak_2022-01-20)                                                       |
+| 13.01.2022 | [English Lunchbreak @ Don Pedros in Offenbach](https://offenbachsocialclub.com/events_lunchbreak_2022-01-13)                                                       |
+| 06.01.2022 | [English Lunchbreak @ Don Pedros in Offenbach](https://offenbachsocialclub.com/events_lunchbreak_2022-01-06)  |      
 | 16.12.2021 | English Lunchbreak @ Don Pedros in Offenbach                                                         |
 | 09.12.2021 | English Lunchbreak  @ L'Afrique in Offenbach                                                         |
 | 05.12.2021 | [Live Irish-American Folk Music](https://www.meetup.com/main-wine/events/282141280)                  |

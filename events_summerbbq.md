@@ -2,8 +2,8 @@
 layout: page
 title: "Meetup Summer BBQ Party"
 description: "30.07.2022: Offenbach and Frankfurt unite for a riverside Saturday-afternoon BBQ!"
-url: https://mainandwine.eu/events_summerbbq
-logo: https://mainandwine.eu/assets/img/grillgreen.jpg
+url: https://offenbachsocialclub.com/events_summerbbq
+logo: https://offenbachsocialclub.com/assets/img/grillgreen.jpg
 ---
 
 # Meetup Summer BBQ Party

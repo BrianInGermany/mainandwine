@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Main & Wine Games
+title: Offenbach Social Club Games
 description: Fun & games for the occasional pause in conversation
-url: https://mainandwine.eu/games
+url: https://offenbachsocialclub.com/games
 header:
   teaser: "https://thejunkyard.cchttps://thejunkyard.cchttps://thejunkyard.cc/assets/images/66.jpg"
 

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Main & Wine Gallery
+title: Offenbach Social Club Gallery
 description: Fun Times with Offenbach English Speakers
 url: https://mainandwingallerye.eu/gallery
 ---

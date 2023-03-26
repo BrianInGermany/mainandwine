@@ -1,34 +1,28 @@
 ---
 layout: default
-title: Main & Wine
+title: Offenbach Social Club
 description: English-Speaking Community for Offenbach
 ---
 ## Who are we?
-Main & Wine is an informal social group of English speakers in the Offenbach area that meets regularly for lunch :pizza: or evening drinks :wine_glass:. We come from all over the world :earth_africa:, but we all speak (some) English. Newcomers are welcome to join at any time! [Facebook](https://www.facebook.com/groups/offenbachenglishspeakers) and [Telegram](https://t.me/mainandwine) are our means of communication and organization. 
+Offenbach Social Club is an informal social group of English speakers in the Offenbach area that meets regularly for lunch :pizza: or evening drinks :wine_glass:. We come from all over the world :earth_africa:, but we all speak (some) English. Newcomers are welcome to join at any time! [Facebook](https://www.facebook.com/groups/offenbachenglishspeakers), [Meetup.com](https://www.meetup.com/offenbach-social-club/) and [Telegram](https://t.me/offenbachsocialclub) are our means of communication and organization. 
 
 ## [**Join on Facebook**](https://www.facebook.com/groups/offenbachenglishspeakers) 
-## [**Join on Telegram**](https://t.me/mainandwine)
+## [**Join on Telegram**](https://t.me/offenbachsocialclub)
 - We use Telegram for group-functionality and data-protection reasons.
   - We are not crazies. :D 
 
 ## Next Events
 
-### [November Pub Crawl!](https://mainandwine.eu/events_pubcrawl_nov22)
-- __Friday, November 4th__
-- __Starting 7pm at Le Belge__
-  
-### Thursday Lunch
-- __Thursdays at ~12:30-1:30pm__ 
-- __Varying locations in Offenbach__ 
-- __See Telegram for the next planned lunch!__
+<div class='sk-meetup-event' data-embed-id='127613'></div><script src='https://widgets.sociablekit.com/meetup-group-events/widget.js' async defer></script>
 
 ### English Table @ Norma's OF Game Night
 - __Every second Monday at 7pm__
 - __Downtown Offenbach__
 - __Contact [Norma on Telegram](http://t.me/Normina_Norminski) or [on Facebook](https://www.facebook.com/groups/1409178569550115) to get location and sign up__
 
-## [Gallery](https://mainandwine.eu/gallery)
+## [Gallery](https://offenbachsocialclub.com/gallery)
 
 ## [Instagram](https://www.instagram.com/ofenglishspeakers)
+- If you want to contact us, please use email or telegram, not Insta :)
 
-## [Impressum](https://mainandwine.eu/impressum)
+## [Impressum](https://offenbachsocialclub.com/impressum)

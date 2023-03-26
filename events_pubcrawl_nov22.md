@@ -2,13 +2,13 @@
 layout: page
 title: "November 4th: OF Pub Crawl!"
 description: "04.11.2022: Join us as we tour the taverns of autumnal Offenbach! (Alt-Offenbacher edition)"
-url: https://mainandwine.eu/events_pubcrawl_nov22
-logo: https://mainandwine.eu/assets/img/barcrawl.jpg
+url: https://offenbachsocialclub.com/events_pubcrawl_nov22
+logo: https://offenbachsocialclub.com/assets/img/barcrawl.jpg
 ---
 
 # November OF Pub Crawl! 
 ## Alt-Offenbacher Edition!  
-__Join Main & Wine as we tour the taverns of autumnal Offenbach!__
+__Join Offenbach Social Club as we tour the taverns of autumnal Offenbach!__
 - __Friday, 04.11.2022 at 7:00pm__   
 1. __Meeting point: [Le Belge](http://lebelge.de/) at Wilhelmsplatz__
 2. __[Salzgässchen](https://frizz-frankfurt.de/gastro/gastrotipps-aus-offenbach/salzg%C3%A4sschen-offenbach/)__
