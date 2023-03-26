@@ -2,6 +2,7 @@
 layout: default
 title: Offenbach Social Club
 description: English-Speaking Community for Offenbach
+logo: https://offenbachsocialclub.com/assets/img/streichholzkarlchePREVIEW.jpg
 ---
 ## Who are we?
 Offenbach Social Club is an informal social group of English speakers in the Offenbach area that meets regularly for lunch :pizza: or evening drinks :wine_glass:. We've been around since 2021, and come from all over the world :earth_africa:, but we all speak (some) English. Newcomers are welcome to join at any time! 
