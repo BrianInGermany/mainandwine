@@ -11,14 +11,7 @@ Offenbach Social Club is an informal social group of English speakers in the Off
 - We use Telegram for group-functionality and data-protection reasons.
   - We are not crazies. :D 
 
-## Next Events
-
 <div class='sk-meetup-event' data-embed-id='127613'></div><script src='https://widgets.sociablekit.com/meetup-group-events/widget.js' async defer></script>
-
-### English Table @ Norma's OF Game Night
-- __Every second Monday at 7pm__
-- __Downtown Offenbach__
-- __Contact [Norma on Telegram](http://t.me/Normina_Norminski) or [on Facebook](https://www.facebook.com/groups/1409178569550115) to get location and sign up__
 
 ## [Gallery](https://offenbachsocialclub.com/gallery)
 
