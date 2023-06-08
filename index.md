@@ -17,7 +17,7 @@ Offenbach Social Club is an informal group of English speakers in the Offenbach 
 ## Card Table
 - In addition to the regular social group, we organize a card players' circle. Most commonly, we play a two-player game called 66. Beginners welcome!
 - [Join the Card Table Offenbach Whatsapp Group](https://chat.whatsapp.com/LnXB5OXRJIkLFzX3GVtqlL)
-- Check out the [rules](/sixtysix_rules) and our [statistics board](/sixtysix)
+- Check out the [rules and statistics board](/sixtysix)
   
 ## [Gallery](https://offenbachsocialclub.com/gallery)
 
