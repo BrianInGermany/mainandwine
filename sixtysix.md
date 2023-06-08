@@ -10,7 +10,7 @@ thumbnail: "https://brianingermany.github.io/assets/images/66.jpg"
 # Rules
 ![](https://brianingermany.github.io/assets/images/66.jpg)
 
-We play 66 with a 20-card deck, using only the tens through aces.
+We play 66 with a 20-card deck, using only the tens through aces. This version of the game is also known as "Schnapsen", and is very popular in Austria.
 - For added fun, you can use a [German-face deck](https://www.piatnik.com/spiele/spielkarten/regionale-karten/blitz-salzburger) as pictured above, but an ordinary pack of cards will work just as well.
 - The game is played with two players.  
 ## Setup
