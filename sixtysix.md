@@ -5,7 +5,7 @@ description: "Homepage of the Offenbach 66ers"
 thumbnail: "https://brianingermany.github.io/assets/images/66.jpg"
 ---
 # League Ranking
-<iframe width="760" height="314" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQSRss85waSFvY1n1bSrQ_GZD7p65yimrfy7wA9eO6ogEcK98DeDN3AGOiLQD8vqjYwWnOLsPIOEZbe/pubchart?oid=690675081&amp;format=interactive"></iframe>
+<iframe width="100%" height="314" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQSRss85waSFvY1n1bSrQ_GZD7p65yimrfy7wA9eO6ogEcK98DeDN3AGOiLQD8vqjYwWnOLsPIOEZbe/pubchart?oid=690675081&amp;format=interactive"></iframe>
 
 # Rules
 ![](https://brianingermany.github.io/assets/images/66.jpg)
