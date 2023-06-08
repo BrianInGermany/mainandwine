@@ -4,7 +4,7 @@ title: Offenbach Social Club Games
 description: Fun & games for the occasional pause in conversation
 url: https://offenbachsocialclub.com/games
 header:
-  teaser: "https://thejunkyard.cchttps://thejunkyard.cchttps://thejunkyard.cc/assets/images/66.jpg"
+  teaser: "https://brianingermany.github.io/assets/images/66.jpg"
 
 ---
 <style type="text/css">

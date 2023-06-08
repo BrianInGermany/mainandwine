@@ -14,9 +14,11 @@ Offenbach Social Club is an informal group of English speakers in the Offenbach 
 - We use Telegram for group-functionality and data-protection reasons.
   - We are not crazies. :D   
   
-## Event Overview  
-<div class='sk-meetup-event' data-embed-id='127613'></div><script src='https://widgets.sociablekit.com/meetup-group-events/widget.js' async defer></script>
-
+## Card Table
+- In addition to the regular social group, we organize a card players' circle. Most commonly, we play a two-player game called 66. Beginners welcome!
+- [Join the Card Table Offenbach Whatsapp Group](https://chat.whatsapp.com/LnXB5OXRJIkLFzX3GVtqlL)
+- Check out the [rules](/sixtysix_rules) and our [statistics board](/sixtysix)
+  
 ## [Gallery](https://offenbachsocialclub.com/gallery)
 
 ## [Previous Events](https://offenbachsocialclub.com/events)  
