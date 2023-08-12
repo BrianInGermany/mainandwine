@@ -15,9 +15,9 @@ Offenbach Social Club is an informal group of English speakers in the Offenbach 
   - We are not crazies. :D   
   
 ## Fun & Games
-- In addition to the regular social group, we organize a card players' circle. Most commonly, we play a four-player called [Schafkopf](https://funcardgames.com/schafkopf) or a two-player game called [66](https://funcardgames.com/sixtysix). Sometimes we play simple dice games, too. 
+- In addition to the regular social group, we organize a card players' circle. Most commonly, we play a four-player called [Schafkopf](https://funcardgames.net/schafkopf) or a two-player game called [66](https://funcardgames.net/sixtysix). Sometimes we play simple dice games, too. 
 - [Join the Card Table OF Whatsapp Group](https://chat.whatsapp.com/LnXB5OXRJIkLFzX3GVtqlL)
-- [Checkout our the game list](https://funcardgames.com)
+- [Checkout our the game list](https://funcardgames.net)
 
   
 ## [Gallery](https://offenbachsocialclub.com/gallery)
