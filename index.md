@@ -14,11 +14,9 @@ Offenbach Social Club is an informal group of English speakers in the Offenbach 
 - We use Telegram for group-functionality and data-protection reasons.
   - We are not crazies. :D   
   
-## Fun & Games
+## [Fun & Games](https://funcardgames.net)
 - In addition to the regular social group, we organize a card players' circle. Most commonly, we play a four-player called [Schafkopf](https://funcardgames.net/schafkopf) or a two-player game called [66](https://funcardgames.net/sixtysix). Sometimes we play simple dice games, too. 
 - [Join the Card Table OF Whatsapp Group](https://chat.whatsapp.com/LnXB5OXRJIkLFzX3GVtqlL)
-- [Checkout our the game list](https://funcardgames.net)
-
   
 ## [Gallery](https://offenbachsocialclub.com/gallery)
 
