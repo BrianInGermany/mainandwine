@@ -10,8 +10,8 @@ header:
 # Schafkopf Offenbach  
 ![](https://funcardgames.net/assets/images/slateSchafkopf.jpg)
 
-Every Monday night at 7:30pm, we play Schafkopf!
-We meet at Belgian bar aptly named "Le Belge":
+Every Monday night at 7:30pm, we play Schafkopf!  
+We meet at a Belgian bar aptly named "Le Belge". It's right by S-Bahn OF Marktplatz:
 
 Bleichstr. 49 
 63065 Offenbach
