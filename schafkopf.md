@@ -5,6 +5,7 @@ description: Friendly, international cards club
 url: https://offenbachsocialclub.com/schafkopf
 header:
   teaser: "https://funcardgames.net/assets/images/slateSchafkopf.jpg"
+logo: "https://funcardgames.net/assets/images/slateSchafkopf.jpg"
 
 ---
 # Schafkopf Offenbach  
