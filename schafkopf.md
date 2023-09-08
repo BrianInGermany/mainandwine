@@ -18,7 +18,7 @@ Bleichstr. 49
 
 - Join the [Whatsapp Group](https://chat.whatsapp.com/LnXB5OXRJIkLFzX3GVtqlL) to see how many people are coming and let us know if you'll join.
 - If we don't assemble a full four players, we also play a one-on-one called 66 ([rules](https://funcardgames.net/sixtysix)).  
-- Beginners are welcome, we're happy to teach. Do check out the [rule in English](https://funcardgames.net/schafkopf) before you come.
+- Beginners are welcome, we're happy to teach. Do check out the [rules in English](https://funcardgames.net/schafkopf) before you come.
 
 Some weeks, we play several different nights, but Monday is the standard.
 
