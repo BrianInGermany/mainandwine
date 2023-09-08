@@ -13,7 +13,7 @@ header:
 Every Monday night at 7:30pm, we play Schafkopf!  
 We meet at a Belgian bar aptly named "Le Belge". It's right by S-Bahn OF Marktplatz:
 
-Bleichstr. 49 
+Bleichstr. 49  
 63065 Offenbach
 
 - Join the [Whatsapp Group](https://chat.whatsapp.com/LnXB5OXRJIkLFzX3GVtqlL) to see how many people are coming and let us know if you'll join.
